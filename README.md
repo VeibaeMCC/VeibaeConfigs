@@ -6,7 +6,7 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 公告区↓
 
-1、我们已经发现了一个存储库错误，接下来它将被修复。
+1、我们已经发现了一个存储库错误，明天它可能会被修复。
 
 2、jartex与pika配置可能不稳定，我们将会在下一个版本中修复。
 
