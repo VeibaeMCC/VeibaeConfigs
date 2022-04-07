@@ -10,6 +10,6 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 2、jartex与pika配置可能不稳定，我们将会在下一个版本中修复。
 
-3、如果你的fdp客户端使用存在问题，请不要担心，我们会逐渐为部分配置开放liquidbounceplus或noteless版本（可能）。
+3、如果你的FDP客户端使用存在问题，请不要担心，我们会逐渐为部分配置开放liquidbounceplus或noteless版本（可能）。
 
 4、Veibae最近很忙，可能没时间看QQ，有事请发送邮件至mccrunsun@outlook.com，我们会在收到邮件后进行回复。
