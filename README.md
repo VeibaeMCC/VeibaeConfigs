@@ -3,7 +3,7 @@
 
 Best Minecraft hacked configs that is base on FDP and another clients on many Minecraft servers.They are made in China.
 
-# 公告（简体中文:Chinese）
+# 公告（简体中文:Simplified Chinese）
 1、Veibae内部QQ群即日起正式停用（因为Veibae的妈妈把Veibae的大号收走了），有任何事宜请联系邮箱mccrunsun@outlook.com，我们会在收到邮件后进行回复。
 
 2、我们已经对jartex与pika服务器配置发布了更新，若有任何问题你可以上报到github。
