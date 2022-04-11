@@ -13,6 +13,8 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 4、即日起，Veibae的配置免费，已付费的用户们也不必担心，Veibae中考后就会恢复付费。
 
+5、Veibae大号2460031134暂时停用。
+
 # Notices(English)
 
 1.You can send words to E-mail mccrunsun@outlook.com to communicate with Veibae.
