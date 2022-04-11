@@ -17,6 +17,6 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 # Notices(English)
 
-1.You can send wards to E-mail mccrunsun@outlook.com to communicate with Veibae.
+1.You can send words to E-mail mccrunsun@outlook.com to communicate with Veibae.
 
 2.ZQAT(zqat.top) is a chinese server with minigames and more games,its anticheat is special,so we'll update new configs on the server before another servers.To get more information on github please.
