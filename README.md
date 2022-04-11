@@ -11,8 +11,10 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 3、我们将使用其他方式代替QQ群进行联系，详情请持续关注最新公告。
 
+4、即日起，Veibae的配置免费，已付费的用户们也不必担心，Veibae中考后就会恢复付费。
+
 # Notices(English)
 
 1.You can send words to E-mail mccrunsun@outlook.com to communicate with Veibae.
 
-2.ZQAT(zqat.top) is a chinese server with minigames and more games,its anticheat is special,so we'll update new configs on the server before another servers.To get more information on github please.
+2.Configs on jartex and pika are broken,we'll fix them as quickly as possible.
