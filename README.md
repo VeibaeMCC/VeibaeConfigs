@@ -3,11 +3,14 @@
 
 Best Minecraft hacked configs that is base on FDP and another clients on many Minecraft servers.They are made in China.
 
-
 # 公告
 
 1、Veibae最近很忙，可能没时间看QQ，有事请发送邮件至mccrunsun@outlook.com，我们会在收到邮件后进行回复。
 
 2、更新时间可能不再固定，随时关注存储库即可知晓有无更新。
 
-3、rocraft配置将在明天更新，详情请持续关注github存储库。
+3、新建ZQAT配置存储库，更新将在今日开始，我们可能会使用FDP之外的各种客户端进行尝试，详情请持续关注github存储库。
+
+4、由于ZQAT反作弊特殊性，一切关于ZQAT的更新都可能被标记为预发布，请不要在意。
+
+5、即日起，ZQAT成为主要绕过服务器，其他服务器配置更新频率降低，请谅解。
