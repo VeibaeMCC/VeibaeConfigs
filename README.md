@@ -6,7 +6,7 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 # 公告（简体中文:Simplified Chinese）
 1、Veibae内部QQ群即日起正式停用（因为Veibae的妈妈把Veibae的大号收走了），有任何事宜请联系邮箱mccrunsun@outlook.com，我们会在收到邮件后进行回复。
 
-2、ZQAT已经被绕过了部分基础功能，预发布配置将在今天（2022.4.12）上午12点之前发布到github存储库，请不要外传，以免被服务器官方和谐。
+2、ZQAT已经被绕过了大部分常用功能（如killaura和scaffold），预发布配置将在今天（2022.4.12）下午5点之前发布到github存储库。
 
 3、我们在blocksmc的配置中发现了部分问题，我们将在一周内发布修复性更新，请持续关注github存储库。
 
