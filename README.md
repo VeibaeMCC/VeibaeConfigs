@@ -14,3 +14,12 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 1.You can send words to E-mail mccrunsun@outlook.com to communicate with Veibae.
 
 2.Some mistakes are in the configs of blocksmc and hycraft,we'll fix bugs,wait please.
+
+# 目前支持的服务器(Servers that we can bypass)
+ZQAT(zqat.top)
+Blocksmc(blocksmc.com)
+Hycraft(hycraft.us)
+Jartex(jartex.fun)
+Pika(pika.hosts)
+Ruhypixel(ruhypixel.net)
+Rocraft(rocraft.games)
