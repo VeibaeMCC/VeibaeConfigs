@@ -33,3 +33,6 @@ Pika(pika.hosts)
 Ruhypixel(ruhypixel.net)
 
 Rocraft(rocraft.games)
+
+# 联系我们
+邮箱:mccrunsun@outlook.com
