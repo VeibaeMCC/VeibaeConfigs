@@ -28,5 +28,6 @@ Ruhypixel(ruhypixel.net)
 
 Rocraft(rocraft.games)
 
-# 联系我们
-邮箱:mccrunsun@outlook.com
+# 联系我们（Contact us）
+邮箱：mccrunsun@outlook.com
+E-mail:mccrunsun@outlook.com
