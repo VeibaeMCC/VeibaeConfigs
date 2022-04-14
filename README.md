@@ -1,3 +1,6 @@
+# 重要通知（Important notices）
+由于matrix更新，jartex与pika配置无法正常绕过，部分问题较为严重，我们已经对更新后的matrix进行了分析，今晚将会发布紧急更新，请关注github存储库。
+
 # VeibaeConfigs
 基于FDP客户端或其他客户端的最佳配置，绕过了多个我的世界服务器。
 
