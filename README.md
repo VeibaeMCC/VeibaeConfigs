@@ -8,14 +8,12 @@ Best Minecraft hacked configs that is base on FDP and another clients on many Mi
 
 2、我们在hycraft的配置中发现了部分问题，我们将发布修复性更新，请持续关注github存储库。
 
-3、jartex与pika服务器反作弊进行了部分调整，目前Veibae已经绕过，配置将很快发布。
+3、由于ZQAT官方封禁了Veibae家较大范围的IP段，ZQAT配置暂时缓更，我们将在完成专用匿名网桥搭建后继续更新，详情请持续关注最新公告。
 
 # Notices(English;English)
 1.Because of my time,some configs have stopped updating since today.
 
 2.Some mistakes are in the configs of hycraft,we'll fix bugs,wait please.
-
-3.The anticheat on jartex and pika updated,we have bypassed it,the new config will be placed on github.
 
 # 目前支持的服务器(Servers that we can bypass)
 ZQAT(zqat.top)
