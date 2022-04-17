@@ -1,9 +1,9 @@
 # VeibaeConfigs
-基于FDP客户端的最佳配置，绕过了多个我的世界服务器。
+基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
-Best Minecraft hacked configs that is base on FDP client on many Minecraft servers.They are made in China.
+Based on the best configs of FDP client,it bypasses multiple my world servers and provides support in simplified Chinese,English and Vietnamese.
 
-Sự liên kết hack thẻ Minecraft với đối tượng FDP trên nhiều server Minecraft.Chúng được làm ở Trung Quốc.
+Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.
 
 # 公告(简体中文;Simplified Chinese;简体中文)
 1、由于时间不充足，部分服务器配置暂停更新，具体恢复更新时间将在后期告知，请持续关注最新公告。
