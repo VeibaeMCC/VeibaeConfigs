@@ -7,21 +7,37 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 
 # 特别活动
 你真的了解Veibae吗，来测试一下吧！
+
 A组：难度低
+
 1、Veibae今年多大了？（一直在很多群提到过）
+
 2、Veibae今年上初几？（一直在很多群提到过）
+
 3、Veibae什么时候入圈的呢？（2019-2022年在FDP群、ccmlol群、任寻群、Veibae旧内部群、rocraft群提到过）
+
 B组：难度中
+
 1、Veibae最喜欢玩哪个服务器呢？（2021-2022年在FDP群，任寻群，rocraft群提到过）
+
 2、Veibae最喜欢抄哪个client源码呢？（2021年在FDP群、ccmlol群、rocraft群提到过）
+
 3、Veibae为什么最近经常失联呢？（2022年在任寻群、rocraft群提到过）
+
 C组：难度高
+
 1、Veibae喜欢在洗澡的时候干什么呢？（2022年在任寻群、rocraft群提到过）
+
 2、Veibae的狗狗是什么品种呢，现在大概多大了呢？（2022年在FDP群、任寻群提到过）
+
 3、Veibae的真实姓名叫什么呢？（2019年在梦想外部群提到过）
+
 D组：难度超级高
+
 1、Veibae当年入圈飘的第一个服务器是什么呢，反作弊呢？
+
 2、Veibae曾经使用过哪些PVP客户端呢？
+
 3、Veibae的xiong有多大呢？
 
 # 公告(简体中文;Simplified Chinese;简体中文)
