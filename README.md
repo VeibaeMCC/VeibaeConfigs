@@ -88,7 +88,7 @@ E-mail:mccrunsun@outlook.com
 
 Hộp thư:mccrunsun@outlook.com
 
-# 已登记用户数
+# 已登记用户数共36人
 越南：18人
 
 中国：12人
