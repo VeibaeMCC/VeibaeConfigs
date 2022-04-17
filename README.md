@@ -10,6 +10,8 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 
 2、我们已经在2022年4月15日凌晨发布了hycraft测试配置，部分功能仍有问题，请等待后续版本的修复。
 
+3、Veibae从他人了解到，ZQAT中部分工作人员可能潜伏在该github存储库中，这就是为什么ZQAT配置迟迟没能与大家见面，我们已经绕过了2022年4月16日的ZQAT反作弊，为了防止针对性和谐，ZQAT配置即日起停止公开发布，若需获取请联系QQ3626595357获取最新版，如果发现泄露行为或ZQAT的卧底偷渡，我们将不再对外开放更新，望周知。
+
 # Notices(English;English;英文)
 1.Due to insufficient time,some servers' configs to suspend the update.The specific time to resume the update will be notified later.Please continue to pay attention to the latest announcement.
 
