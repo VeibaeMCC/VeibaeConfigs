@@ -5,7 +5,7 @@ Based on the best configs of FDP client,it bypasses multiple my world servers an
 
 Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.
 
-# 特别活动(面向中国用户;For Chinese users)
+# 特别活动(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
 你真的了解Veibae吗，来测试一下吧！
 
 A组：难度低
@@ -92,6 +92,3 @@ Hộp thư:mccrunsun@outlook.com
 美国：4人
 缅甸：1人
 巴西：1人
-
-# 张哥(备案号：1748604642)
-Veibae的永久免费用户，可以直接体验私人配置，该权利独一无二。
