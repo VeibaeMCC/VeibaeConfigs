@@ -1,5 +1,3 @@
-Veibae的妈妈回来了刚才，所以下线了，现在我在玩rocraft.games，可以来找我玩
-
 # VeibaeConfigs
 基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
@@ -7,7 +5,7 @@ Based on the best configs of FDP client,it bypasses multiple my world servers an
 
 Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.
 
-# 特别活动
+# 特别活动(面向中国用户;For Chinese users)
 你真的了解Veibae吗，来测试一下吧！
 
 A组：难度低
@@ -87,6 +85,13 @@ ZQAT(zqat.top)
 E-mail:mccrunsun@outlook.com
 
 Hộp thư:mccrunsun@outlook.com
+
+# 已登记用户数
+越南：18人
+中国：12人
+美国：4人
+缅甸：1人
+巴西：1人
 
 # 张哥(备案号：1748604642)
 Veibae的永久免费用户，可以直接体验私人配置，该权利独一无二。
