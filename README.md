@@ -1,9 +1,9 @@
 # VeibaeConfigs
 基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
-Based on the best configs of FDP client,it bypasses multiple my world servers and provides support in simplified Chinese,English and Vietnamese.
+Based on the best configs of FDP client,it bypasses multiple my world servers and provides support in simplified Chinese,English and Vietnamese.They are made in China.
 
-Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.
+Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.Chúng được sản xuất tại Trung Quốc.
 
 # 特别活动(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
 你真的了解Veibae吗，来测试一下吧！
