@@ -81,11 +81,11 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 1.Tất cả các cấu hình tạm dừng cập nhật.
 
 # 如何使用我们的配置(How to use our configs;Cách dùng thân hình của chúng ta)
-请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“Configs”中加载即可。
+请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“`Configs`”中加载即可。
 
-Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "Configs" of the FDP client.
+Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "`Configs`" of the FDP client.
 
-Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"Configs"của các khách khẩu FDP.
+Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"`Configs`"của các khách khẩu FDP.
 
 # 目前支持的服务器(Servers that we can bypass;Dịch vụ mà chúng ta có thể bỏ)
 Blocksmc(blocksmc.com)
