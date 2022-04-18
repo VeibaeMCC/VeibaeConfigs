@@ -43,17 +43,13 @@ D组：难度超级高
 答案将在2022年4月19日公布，该模块将在2022年4月22日被删除。
 
 # 公告(简体中文;Simplified Chinese;简体中文)
-1、由于时间不充足，部分服务器配置暂停更新，具体恢复更新时间将在后期告知，请持续关注最新公告。
-
-2、请不要发邮件性骚扰Veibae，谢谢。
-
-3、Veibae从他人了解到，ZQAT中部分工作人员可能潜伏在该github存储库中，这就是为什么ZQAT配置迟迟没能与大家见面，我们已经绕过了2022年4月17日的ZQAT反作弊，为了防止针对性和谐，ZQAT配置即日起停止公开发布，若需获取请发送任意内容到邮箱mccrunsun@outlook.com了解如何获取最新版，如果发现泄露行为或ZQAT的卧底偷渡，我们将不再对外开放更新，望周知。
+1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知。
 
 # Notices(English;English;英文)
-1.Due to insufficient time,some servers' configs to suspend the update.The specific time to resume the update will be notified later.Please continue to pay attention to the latest announcement.
+1.None.
 
 # Ghi(ViệtName;Vietnamese;越南语)
-1.Do thời gian không đủ,một số máy chủ được cấu hình để tạm dừng cập nhật.Thời gian cụ thể để tiếp tục cập nhật sẽ được thông báo sau.Vui lòng tiếp tục chú ý đến thông báo mới nhất.
+1.None.
 
 # 如何使用我们的配置(How to use our configs;Cách dùng thân hình của chúng ta)
 请先访问该github存储库，在仓库里找到“配置”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“Configs”中加载即可。
