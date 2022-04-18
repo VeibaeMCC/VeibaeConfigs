@@ -43,7 +43,9 @@ D组：难度超级高
 答案将在2022年4月19日公布，该模块将在2022年4月22日被删除。
 
 # 公告(简体中文;Simplified Chinese;简体中文)
-1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知。
+1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知，希望我能永远白嫖noteless客户端。
+
+2、由于反作弊更新，jartex与pika配置有部分问题未解决，我们将在今晚发布修复性更新，请关注github存储库，这可能是中考前最后一次更新。
 
 # Notices(English;English;英文)
 1.All configs pause updates.
@@ -73,6 +75,35 @@ Rocraft(rocraft.games)
 
 ZQAT(zqat.top)
 
+# 常见问题(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
+1、问：Veibae你真的是女生嘛？
+
+答：是的，但我的性格是不是很彪悍哈哈哈。
+
+2、问：Veibae你的闺蜜是谁呢？
+
+答：是一位还没处多久的大宝贝。
+
+3、问：Veibae你的配置为什么你自己用很厉害，我们用就不好用呢？
+
+答：因为你的IQ不够高。
+
+4、问：Veibae你真的和你的现男友发生过关系嘛？
+
+答：是的，只有一次，并且发生在今年。
+
+5、问：Veibae你为什么要退群呢？
+
+答：Veibae的妈妈收走了Veibae的大号。
+
+6、问：Veibae你长什么样子呢？
+
+答：你可以看我照片，在一些地方发过。
+
+7、问：Veibae你为什么那么舔呢？
+
+答：先天性原因吧。
+
 # 联系我们(Contact us;Liên lạc)
 邮箱：mccrunsun@outlook.com
 
@@ -80,10 +111,10 @@ E-mail:mccrunsun@outlook.com
 
 Hộp thư:mccrunsun@outlook.com
 
-# 已登记用户数共37人
-越南：18人
+# 已登记用户数共48人
+中国：23人
 
-中国：13人
+越南：19人
 
 美国：4人
 
