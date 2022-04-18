@@ -1,4 +1,5 @@
-# VeibaeConfigs
+VeibaeConfigs
+=
 基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
 Based on the best configs of FDP client,it bypasses multiple my world servers and provides support in simplified Chinese,English and Vietnamese.They are made in China.
@@ -6,7 +7,7 @@ Based on the best configs of FDP client,it bypasses multiple my world servers an
 Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.Chúng được sản xuất tại Trung Quốc.
 
 # 特别活动(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
-你真的了解Veibae吗，来测试一下吧！
+## 你真的了解Veibae吗，来测试一下吧！
 
 A组：难度低
 
@@ -40,7 +41,33 @@ D组：难度超级高
 
 3、Veibae的xiong有多大呢？
 
-答案将在2022年4月19日公布，该模块将在2022年4月22日被删除。
+## 答案
+
+A1、15岁。
+
+A2、初四，山东威海五四制。
+
+A3、2017年末。
+
+B1、rocraft服务器。
+
+B2、liquidbounceplus客户端。
+
+B3、你说呢，我都说了多少次了。
+
+C1、自慰你懂吧哈哈哈。
+
+C2、柯基哦，两个多月大。
+
+C3、姓张，至于全名你不知道就不知道吧。
+
+D1、hypixel服务器，反作弊是watchdog。
+
+D2、smoke、melon这些。
+
+D3、可以告诉你我上次学校体检量的胸围是79cm。
+
+## 该模块将在2022年4月22日被删除。
 
 # 公告(简体中文;Simplified Chinese;简体中文)
 1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知，希望我能永远白嫖noteless客户端。
@@ -54,11 +81,11 @@ D组：难度超级高
 1.Tất cả các cấu hình tạm dừng cập nhật.
 
 # 如何使用我们的配置(How to use our configs;Cách dùng thân hình của chúng ta)
-请先访问该github存储库，在仓库里找到“配置”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“Configs”中加载即可。
+请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“Configs”中加载即可。
 
-Please visit the GitHub repository first,find the "配置" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "Configs" of the FDP client.
+Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "Configs" of the FDP client.
 
-Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "配置" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"Configs"của các khách khẩu FDP.
+Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"Configs"của các khách khẩu FDP.
 
 # 目前支持的服务器(Servers that we can bypass;Dịch vụ mà chúng ta có thể bỏ)
 Blocksmc(blocksmc.com)
@@ -118,6 +145,6 @@ Hộp thư:mccrunsun@outlook.com
 
 美国：4人
 
-缅甸：1人
+巴西：2人
 
-巴西：1人
+缅甸：1人
