@@ -92,19 +92,19 @@ Please visit the GitHub repository first,find the "`配置`" folder in the repos
 Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"`Configs`"của các khách khẩu FDP.
 
 # 目前支持的服务器(Servers that we can bypass;Dịch vụ mà chúng ta có thể bỏ)
-Blocksmc(blocksmc.com)
+Blocksmc(blocksmc.com)(verus)
 
-Hycraft(mc.hycraft.us)
+Hycraft(mc.hycraft.us)(custom vulcan)
 
-Jartex(jartex.fun)
+Jartex(jartex.fun)(matrix)
 
-Pika(pika.hosts)
+Pika(pika.hosts)(matrix)
 
-Ruhypixel(ruhypixel.net)
+Ruhypixel(ruhypixel.net)(matrix)
 
-Rocraft(rocraft.games)
+Rocraft(rocraft.games)(verus and vulcan)
 
-ZQAT(zqat.top)
+ZQAT(zqat.top)(custom anticheat)
 
 # 常见问题(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
 1、问：Veibae你真的是女生嘛？
