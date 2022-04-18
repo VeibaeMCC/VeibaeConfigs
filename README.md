@@ -94,6 +94,8 @@ Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong 
 # 目前支持的服务器(Servers that we can bypass;Dịch vụ mà chúng ta có thể bỏ)
 Blocksmc(blocksmc.com)(verus)
 
+Herobrine(herobrine.org)(intave and vulcan)(in the future)
+
 Hycraft(mc.hycraft.us)(custom vulcan)
 
 Jartex(jartex.fun)(matrix)
