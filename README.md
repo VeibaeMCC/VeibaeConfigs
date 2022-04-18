@@ -45,19 +45,15 @@ D组：难度超级高
 # 公告(简体中文;Simplified Chinese;简体中文)
 1、由于时间不充足，部分服务器配置暂停更新，具体恢复更新时间将在后期告知，请持续关注最新公告。
 
-2、各个服务器配置明日起恢复更新，存储库已维护完成，今晚可能会暂时关闭该存储库修改部分文件，明天将会恢复。
+2、请不要发邮件性骚扰Veibae，谢谢。
 
 3、Veibae从他人了解到，ZQAT中部分工作人员可能潜伏在该github存储库中，这就是为什么ZQAT配置迟迟没能与大家见面，我们已经绕过了2022年4月17日的ZQAT反作弊，为了防止针对性和谐，ZQAT配置即日起停止公开发布，若需获取请发送任意内容到邮箱mccrunsun@outlook.com了解如何获取最新版，如果发现泄露行为或ZQAT的卧底偷渡，我们将不再对外开放更新，望周知。
 
 # Notices(English;English;英文)
 1.Due to insufficient time,some servers' configs to suspend the update.The specific time to resume the update will be notified later.Please continue to pay attention to the latest announcement.
 
-2.The configs of each server will resume and update tomorrow,and the repository has been maintained.The repository may be temporarily closed tonight to modify some files,and it will be restored tomorrow.
-
 # Ghi(ViệtName;Vietnamese;越南语)
 1.Do thời gian không đủ,một số máy chủ được cấu hình để tạm dừng cập nhật.Thời gian cụ thể để tiếp tục cập nhật sẽ được thông báo sau.Vui lòng tiếp tục chú ý đến thông báo mới nhất.
-
-2.Cấu hình của mỗi máy chủ sẽ tiếp tục và cập nhật vào ngày mai,và kho lưu trữ đã được duy trì.Kho lưu trữ có thể tạm thời đóng cửa vào đêm nay để sửa đổi một số tệp và nó sẽ được khôi phục vào ngày mai.
 
 # 如何使用我们的配置(How to use our configs;Cách dùng thân hình của chúng ta)
 请先访问该github存储库，在仓库里找到“配置”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“Configs”中加载即可。
