@@ -43,6 +43,8 @@ Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong 
 # Servers that we can bypass
 Blocksmc(blocksmc.com)(verus)
 
+GameCraft(mcyc.win)(AAC5 and vulcan)
+
 Hycraft(mc.hycraft.us)(custom vulcan)
 
 Jartex(jartex.fun)(matrix)
@@ -121,13 +123,13 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 # Contact us
 E-mail:mccrunsun@outlook.com
 
-# The number of all users is 356.
-China：194 users
+# The number of all users is 388.
+China：199 users
 
-America：98 users
+America：102 users
 
-ietnam：56 users
+ietnam：61 users
 
-Brazil：13 users
+Brazil：19 users
 
-Myanmar：5 users
+Myanmar：7 users
