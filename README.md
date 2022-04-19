@@ -39,8 +39,6 @@ Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong 
 # Servers that we can bypass
 Blocksmc(blocksmc.com)(verus)
 
-Herobrine(herobrine.org)(intave and vulcan)(in the future)
-
 Hycraft(mc.hycraft.us)(custom vulcan)
 
 Jartex(jartex.fun)(matrix)
