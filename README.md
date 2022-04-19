@@ -20,8 +20,12 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
 
+2.It is a nice choice to play some chinese Minecraft servers.
+
 ### ViệtName;Vietnamese
 1.Chúng tôi đã cập nhật một số cấu hình,nếu bạn tìm thấy các lỗi trong cấu hình của chúng tôi,bạn có thể báo cáo chúng trên GitHub,cảm ơn!
+
+2.Đây là một lựa chọn tuyệt vời để chơi một số máy chủ Minecraft của Trung Quốc.
 
 # How to use our configs
 
