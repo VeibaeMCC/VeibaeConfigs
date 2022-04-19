@@ -9,11 +9,11 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 # Notices
 ## Choose one language.
 ### 简体中文;Simplified Chinese
-1、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
+1、由于该存储库访问量在出乎意料的高，因此短时间内我们将不会停更，但也不会耽误我的学业，还是要感谢余志文哥哥的关心。
 
-2、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com获取。
+2、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
 
-3、最近有人魔改我配置加个自己的插件就说是自己拉的，还在服务器耀武扬威，要不是姐姐高智商还真以为你多厉害呢。
+3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
 
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
