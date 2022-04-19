@@ -15,6 +15,8 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 
 3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
 
+4、姐姐昨晚做梦梦见mcyc腐竹小杰对我很不友好，还说自己的反作弊组合最强，于是我决定发布mcyc配置，让他知道他的见识多么短浅。
+
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
 
