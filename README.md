@@ -1,10 +1,10 @@
 VeibaeConfigs
 =
-基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
+全球最大的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
-Based on the best configs of FDP client,it bypasses multiple my world servers and provides support in simplified Chinese,English and Vietnamese.They are made in China.
+The world's largest provider of free configs,publishes the best configs based on FDP client,bypasses multiple minecraft servers,and provides support for Simplified Chinese,English,and Vietnamese.They are made in China.
 
-Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.Chúng được sản xuất tại Trung Quốc.
+Nhà cung cấp cấu hình miễn phí lớn nhất thế giới,xuất bản các cấu hình tốt nhất dựa trên máy khách FDP,bỏ qua nhiều máy chủ minecraft và cung cấp hỗ trợ cho tiếng Trung giản thể,tiếng Anh và tiếng Việt.Chúng được sản xuất tại Trung Quốc.
 
 # Notices
 ## Choose one language.
