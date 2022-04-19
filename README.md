@@ -9,13 +9,13 @@ Nhà cung cấp cấu hình miễn phí lớn nhất thế giới,xuất bản c
 # Notices
 ## Choose one language.
 ### 简体中文;Simplified Chinese
-1、由于该存储库访问量在出乎意料的高，因此短时间内我们将不会停更，但也不会耽误我的学业，还是要感谢余志文哥哥的关心。
+1、由于该存储库访问量出乎意料的高，因此短时间内我们将不会停更，但也不会耽误我的学业，还是要感谢余志文哥哥的关心。
 
-2、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
+2、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
 
 3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
 
-4、我明天期中考试，快来祝福我吧！
+4、我今天期中考试，快来祝福我吧！
 
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
@@ -123,10 +123,10 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 # Contact us
 E-mail:mccrunsun@outlook.com
 
-# The number of all users is 388.
-China：199 users
+# The number of all users is 420.
+China：214 users
 
-America：102 users
+America：119 users
 
 ietnam：61 users
 
