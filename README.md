@@ -6,6 +6,53 @@ Based on the best configs of FDP client,it bypasses multiple my world servers an
 
 Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nhiều server thế giới của tôi và hỗ trợ cho người Trung Quốc,Anh và Việt.Chúng được sản xuất tại Trung Quốc.
 
+# Notices
+## Choose one language.
+### 简体中文;Simplified Chinese
+1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知，希望我能永远白嫖noteless客户端。
+
+2、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
+
+3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com获取。
+
+4、最近有人魔改我配置加个自己的插件就说是自己拉的，还在服务器耀武扬威，要不是姐姐高智商还真以为你多厉害呢。
+
+### English;English
+1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
+
+### ViệtName;Vietnamese
+1.Chúng tôi đã cập nhật một số cấu hình,nếu bạn tìm thấy các lỗi trong cấu hình của chúng tôi,bạn có thể báo cáo chúng trên GitHub,cảm ơn!
+
+# How to use our configs
+
+## Choose one language.
+
+### 简体中文;Simplified Chinese
+请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“`Configs`”中加载即可。
+
+### English;English
+Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "`Configs`" of the FDP client.
+
+### ViệtName;Vietnamese
+Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"`Configs`"của các khách khẩu FDP.
+
+# Servers that we can bypass
+Blocksmc(blocksmc.com)(verus)
+
+Herobrine(herobrine.org)(intave and vulcan)(in the future)
+
+Hycraft(mc.hycraft.us)(custom vulcan)
+
+Jartex(jartex.fun)(matrix)
+
+Pika(pika.hosts)(matrix)
+
+Ruhypixel(ruhypixel.net)(matrix)
+
+Rocraft(rocraft.games)(verus and vulcan)
+
+ZQAT(zqat.top)(custom anticheat)
+
 # `特别活动`(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
 ## 你真的了解Veibae吗，来测试一下吧！
 
@@ -69,88 +116,16 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 
 ## 该模块将在2022年4月22日被删除。
 
-# 公告(简体中文;Simplified Chinese;简体中文)
-1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知，希望我能永远白嫖noteless客户端。
-
-2、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
-
-3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com获取。
-
-4、最近有人魔改我配置加个自己的插件就说是自己拉的，还在服务器耀武扬威，要不是姐姐高智商还真以为你多厉害呢。
-
-# Notices(English;English;英文)
-1.All configs pause updates.
-
-# Ghi(ViệtName;Vietnamese;越南语)
-1.Tất cả các cấu hình tạm dừng cập nhật.
-
-# 如何使用我们的配置(How to use our configs;Cách dùng thân hình của chúng ta)
-请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“`Configs`”中加载即可。
-
-Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "`Configs`" of the FDP client.
-
-Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"`Configs`"của các khách khẩu FDP.
-
-# 目前支持的服务器(Servers that we can bypass;Dịch vụ mà chúng ta có thể bỏ)
-Blocksmc(blocksmc.com)(verus)
-
-Herobrine(herobrine.org)(intave and vulcan)(in the future)
-
-Hycraft(mc.hycraft.us)(custom vulcan)
-
-Jartex(jartex.fun)(matrix)
-
-Pika(pika.hosts)(matrix)
-
-Ruhypixel(ruhypixel.net)(matrix)
-
-Rocraft(rocraft.games)(verus and vulcan)
-
-ZQAT(zqat.top)(custom anticheat)
-
-# 常见问题(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
-1、问：Veibae你真的是女生嘛？
-
-答：是的，但我的性格是不是很彪悍哈哈哈。
-
-2、问：Veibae你的闺蜜是谁呢？
-
-答：是一位还没处多久的大宝贝。
-
-3、问：Veibae你的配置为什么你自己用很厉害，我们用就不好用呢？
-
-答：因为你的IQ不够高。
-
-4、问：Veibae你真的和你的现男友发生过关系嘛？
-
-答：是的，只有一次，并且发生在今年。
-
-5、问：Veibae你为什么要退群呢？
-
-答：Veibae的妈妈收走了Veibae的大号。
-
-6、问：Veibae你长什么样子呢？
-
-答：你可以看我照片，在一些地方发过。
-
-7、问：Veibae你为什么那么舔呢？
-
-答：先天性原因吧。
-
-# 联系我们(Contact us;Liên lạc)
-邮箱：mccrunsun@outlook.com
-
+# Contact us
 E-mail:mccrunsun@outlook.com
 
-Hộp thư:mccrunsun@outlook.com
+# The number of all users is 356.
+China：194人
 
-# 总用户数共356人(包括未被登记的用户)
-中国：194人
+America：98人
 
-美国：98人
+Vietnam：56人
 
-越南：56人
+Brazil：13人
 
-巴西：13人
-
-缅甸：5人
+Myanmar：5人
