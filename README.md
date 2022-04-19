@@ -120,12 +120,12 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 E-mail:mccrunsun@outlook.com
 
 # The number of all users is 356.
-China：194人
+China：194
 
-America：98人
+America：98
 
-Vietnam：56人
+ietnam：56
 
-Brazil：13人
+Brazil：13
 
-Myanmar：5人
+Myanmar：5
