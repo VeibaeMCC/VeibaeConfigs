@@ -9,13 +9,11 @@ Dựa trên cấu hình tốt nhất của các khách hàng FDP,nó bỏ qua nh
 # Notices
 ## Choose one language.
 ### 简体中文;Simplified Chinese
-1、受到余志文哥哥的嘱托，Veibae中考前将不再开黑客，所有配置停止更新，回归时间另行通知，希望我能永远白嫖noteless客户端。
+1、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
 
-2、我们已经于2022年4月19日凌晨发布了jartex与pika的最新配置，bug大多已被修复，测试中该配置连赢了7局，如果遇到其他问题你可以上报到github。
+2、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com获取。
 
-3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com获取。
-
-4、最近有人魔改我配置加个自己的插件就说是自己拉的，还在服务器耀武扬威，要不是姐姐高智商还真以为你多厉害呢。
+3、最近有人魔改我配置加个自己的插件就说是自己拉的，还在服务器耀武扬威，要不是姐姐高智商还真以为你多厉害呢。
 
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
@@ -118,12 +116,12 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 E-mail:mccrunsun@outlook.com
 
 # The number of all users is 356.
-China：194
+China：194 users
 
-America：98
+America：98 users
 
-ietnam：56
+ietnam：56 users
 
-Brazil：13
+Brazil：13 users
 
-Myanmar：5
+Myanmar：5 users
