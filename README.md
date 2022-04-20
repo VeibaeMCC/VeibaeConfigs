@@ -48,7 +48,7 @@ Jartex(jartex.fun)(matrix)
 
 Kokscraft(kokscraft.pl)(custom anticheat)
 
-Lucky(luckynetwork.net)
+Lucky(luckynetwork.net)(verus and custom anticheat)
 
 Pika(pika.hosts)(matrix)
 
