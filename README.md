@@ -10,12 +10,12 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 #### 简体中文;Simplified Chinese
 1、在mcyc配置中存在部分问题，将在今天修复。
 
-2、我们将会发布hycraft的最新配置，修复了部分问题，但部分功能仍不稳定，如果你有更好的绕过思路可以告诉我们。
+2、我们已经发布了hycraft的最新配置，修复了部分问题，但部分功能可能仍不稳定，如果你有更好的绕过思路可以告诉我们。
 
 3、如果你愿意帮助我们翻译请告诉我们。
 
 #### English;English
-1.We'll release the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
+1.We have released the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
 
 2.If you can help us to translate,please tell me.
 
@@ -136,6 +136,8 @@ liulihaocai
 contionability
 
 FengXiaoSkidGod
+
+任寻
 
 ## Translation support
 Google Translate
