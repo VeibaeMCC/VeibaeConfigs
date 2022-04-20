@@ -11,17 +11,17 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 ### 简体中文;Simplified Chinese
 1、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
 
-2、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
+2、很快我们将会提供更多客户端的配置支持，你可以提交自己喜欢的客户端给我们，我们会专门回复。
 
 ### English;English
-1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
+1.Soon we will provide more client configuration support.You can submit your favorite client to us,and we will reply specifically.
 
-2.It is a nice choice to play some chinese Minecraft servers.
+2.If you can help us to translate,please tell me.
 
 ### ViệtName;Vietnamese
 1.Chúng tôi đã cập nhật một số cấu hình,nếu bạn tìm thấy các lỗi trong cấu hình của chúng tôi,bạn có thể báo cáo chúng trên GitHub,cảm ơn!
 
-2.Đây là một lựa chọn tuyệt vời để chơi một số máy chủ Minecraft của Trung Quốc.
+2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
 # Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
@@ -117,6 +117,24 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 
 ## 该模块将在2022年4月22日被删除。
 
+# Special Thanks
+ll11l1lIllIl1lll(Veibae's close friend)
+
+guimc233(Veibae's boyfriend)
+
+liulihaocai
+
+contionability
+
+FengXiaoSkidGod
+
+# Terminal support
+Liquidbounce Client
+
+FDP Client
+
+LiquidbouncePlus Client
+
 # Translation support
 Google Translate
 
@@ -125,8 +143,8 @@ Baidu Translate
 # Contact us
 E-mail:mccrunsun@outlook.com
 
-# The number of all users is 422.
-China：216 users
+# The number of all users is 458.
+China：252 users
 
 America：119 users
 
