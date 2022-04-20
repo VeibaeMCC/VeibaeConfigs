@@ -1,21 +1,17 @@
 VeibaeConfigs
 =
-全球最大的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
+最棒的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持，配置在中国被制作。
 
-The world's largest provider of free configs,publishes the best configs based on FDP client,bypasses multiple minecraft servers,and provides support for Simplified Chinese,English,and Vietnamese.They are made in China.
+The best free configs provider releases the best configs based on FDP client,bypasses multiple my world servers,and provides support in simplified Chinese,English and Vietnamese.The configs are made in China.
 
-Nhà cung cấp cấu hình miễn phí lớn nhất thế giới,xuất bản các cấu hình tốt nhất dựa trên máy khách FDP,bỏ qua nhiều máy chủ minecraft và cung cấp hỗ trợ cho tiếng Trung giản thể,tiếng Anh và tiếng Việt.Chúng được sản xuất tại Trung Quốc.
+Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu hình tốt nhất dựa trên các máy chủ FDP,bỏ qua nhiều máy chủ thế giới của tôi,và hỗ trợ cho các thiết lập kiểu Trung Quốc,Anh và Việt.
 
 # Notices
 ## Choose one language.
 ### 简体中文;Simplified Chinese
-1、由于该存储库访问量出乎意料的高，因此短时间内我们将不会停更，但也不会耽误我的学业，还是要感谢余志文哥哥的关心。
+1、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
 
-2、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
-
-3、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
-
-4、我今天期中考试，快来祝福我吧！
+2、若需获取最新ZQAT配置，请联系邮箱mccrunsun@outlook.com了解详情。
 
 ### English;English
 1.We have updated some configs,if you find bugs in our configs,you can report them on github,thanks!
@@ -27,10 +23,11 @@ Nhà cung cấp cấu hình miễn phí lớn nhất thế giới,xuất bản c
 
 2.Đây là một lựa chọn tuyệt vời để chơi một số máy chủ Minecraft của Trung Quốc.
 
+# Statement
+Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
+
 # How to use our configs
-
 ## Choose one language.
-
 ### 简体中文;Simplified Chinese
 请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“`Configs`”中加载即可。
 
@@ -120,11 +117,15 @@ D3、可以告诉你我上次学校体检量的胸围是79cm。
 
 ## 该模块将在2022年4月22日被删除。
 
+# Translation support
+Google Translate
+Baidu Translate
+
 # Contact us
 E-mail:mccrunsun@outlook.com
 
-# The number of all users is 420.
-China：214 users
+# The number of all users is 422.
+China：216 users
 
 America：119 users
 
