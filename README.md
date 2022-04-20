@@ -1,46 +1,45 @@
-VeibaeConfigs
-=
+# VeibaeConfigs
 最棒的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
 The best free configs provider releases the best configs based on FDP client,bypasses multiple my world servers,and provides support in simplified Chinese,English and Vietnamese.The configs are made in China.
 
 Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu hình tốt nhất dựa trên các máy chủ FDP,bỏ qua nhiều máy chủ thế giới của tôi,và hỗ trợ cho các thiết lập kiểu Trung Quốc,Anh và Việt.
 
-# Notices
-## Choose one language.
-### 简体中文;Simplified Chinese
+## Notices
+### Choose one language.
+#### 简体中文;Simplified Chinese
 1、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
 
 2、很快我们将会提供更多客户端的配置支持，你可以提交自己喜欢的客户端给我们，我们会专门回复。
 
 3、由于多国语言支持，我们的Readme文件排版还需不断调整，部分内容会被删除，望周知。
 
-### English;English
+#### English;English
 1.Soon we will provide more client configuration support.You can submit your favorite client to us,and we will reply specifically.
 
 2.If you can help us to translate,please tell me.
 
-### ViệtName;Vietnamese
+#### ViệtName;Vietnamese
 1.Chúng tôi đã cập nhật một số cấu hình,nếu bạn tìm thấy các lỗi trong cấu hình của chúng tôi,bạn có thể báo cáo chúng trên GitHub,cảm ơn!
 
 2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
-# Statement
+## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
 
-# How to use our configs
-## Choose one language.
-### 简体中文;Simplified Chinese
+## How to use our configs
+### Choose one language.
+#### 简体中文;Simplified Chinese
 请先访问该github存储库，在仓库里找到“`配置`”文件夹，在这里面选择服务器，然后下载对应日期的配置，放在FDP客户端的“`Configs`”中加载即可。
 
-### English;English
+#### English;English
 Please visit the GitHub repository first,find the "`配置`" folder in the repository,select the server here,then download the configs of the corresponding date and load it in the "`Configs`" of the FDP client.
 
-### ViệtName;Vietnamese
+#### ViệtName;Vietnamese
 Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong kho lưu trữ,chọn trình phục vụ ở đây,sau đó tải cấu hình ngày tương ứng và nạp nó vào các"`Configs`"của các khách khẩu FDP.
 
-# Servers that we can bypass
-## General servers
+## Servers that we can bypass
+### General servers
 Blocksmc(blocksmc.com)(verus)
 
 Hycraft(mc.hycraft.us)(custom vulcan)
@@ -51,7 +50,7 @@ Pika(pika.hosts)(matrix)
 
 Ruhypixel(ruhypixel.net)(matrix)
 
-## Chinese servers
+### Chinese servers
 GameCraft(mcyc.win)(AAC5 and vulcan)
 
 欢乐村(9wmc.xyz)(custom anticheat)
@@ -60,8 +59,8 @@ Rocraft(rocraft.games)(verus and vulcan)
 
 ZQAT(zqat.top)(custom anticheat)
 
-# `特别活动`(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
-## 你真的了解Veibae吗，来测试一下吧！
+## `特别活动`(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
+### 你真的了解Veibae吗，来测试一下吧！
 
 A组：难度低
 
@@ -95,7 +94,7 @@ D组：难度超级高
 
 3、Veibae的xiong有多大呢？
 
-## 答案
+### 答案
 
 A1、15岁。
 
@@ -121,9 +120,9 @@ D2、smoke、melon这些。
 
 D3、可以告诉你我上次学校体检量的胸围是79cm。
 
-## 该模块将在2022年4月22日被删除。
+### 该模块将在2022年4月22日被删除。
 
-# Special Thanks
+## Special Thanks
 ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
@@ -134,15 +133,15 @@ contionability
 
 FengXiaoSkidGod
 
-# Translation support
+## Translation support
 Google Translate
 
 Baidu Translate
 
-# Contact us
+## Contact us
 E-mail:mccrunsun@outlook.com
 
-# The number of all users is 458.
+## The number of all users is 458.
 China：252 users
 
 America：119 users
