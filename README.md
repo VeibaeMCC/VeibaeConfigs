@@ -1,5 +1,3 @@
-啊啊啊啊啊啊啊啊啊啊啊啊啊啊，访问量好少，来人啊呜呜呜，要摸摸头，今天访问量才438，独立访问才56啊啊啊啊啊啊啊啊
-
 # VeibaeConfigs
 最棒的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
@@ -10,19 +8,19 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、我们已经于2022年4月19日发布了mcyc的配置，如遇问题你可以上报到github。
+1、在mcyc配置中存在部分问题，将在今天修复。
 
-2、很快我们将会提供更多客户端的配置支持，你可以提交自己喜欢的客户端给我们，我们会专门回复。
+2、我们将会发布hycraft的最新配置，修复了部分问题，但部分功能仍不稳定，如果你有更好的绕过思路可以告诉我们。
 
-3、由于多国语言支持，我们的Readme文件排版还需不断调整，部分内容会被删除，望周知。
+3、如果你愿意帮助我们翻译请告诉我们。
 
 #### English;English
-1.Soon we will provide more client configuration support.You can submit your favorite client to us,and we will reply specifically.
+1.We'll release the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
 
 2.If you can help us to translate,please tell me.
 
 #### ViệtName;Vietnamese
-1.Chúng tôi đã cập nhật một số cấu hình,nếu bạn tìm thấy các lỗi trong cấu hình của chúng tôi,bạn có thể báo cáo chúng trên GitHub,cảm ơn!
+1.Chúng tôi sẽ phát hành cấu hình mới nhất của hycraft,có gì đó không tốt,nếu bạn có thể giúp chúng tôi vượt qua,vui lòng cho chúng tôi biết,cảm ơn.
 
 2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
@@ -47,6 +45,10 @@ Blocksmc(blocksmc.com)(verus)
 Hycraft(mc.hycraft.us)(custom vulcan)
 
 Jartex(jartex.fun)(matrix)
+
+Kokscraft(kokscraft.pl)(custom anticheat)
+
+Lucky(luckynetwork.net)
 
 Pika(pika.hosts)(matrix)
 
@@ -143,13 +145,13 @@ Baidu Translate
 ## Contact us
 E-mail:mccrunsun@outlook.com
 
-## The number of all users is 458.
-China：252 users
+## The number of all users is 509.
+China：266 users
 
-America：119 users
+America：131 users
 
-ietnam：61 users
+ietnam：69 users
 
-Brazil：19 users
+Brazil：32 users
 
-Myanmar：7 users
+Myanmar：11 users
