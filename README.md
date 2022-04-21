@@ -146,7 +146,11 @@ Google Translate
 
 Baidu Translate
 
+Microsoft Translator
+
 ## Contact us
 E-mail:mccrunsun@outlook.com
 
 Tencent QQ Group:785916610
+
+RenXun's Tencent QQ Group:905415155(Our Partners)
