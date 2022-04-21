@@ -14,6 +14,8 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 
 3、加入我们的QQ群785916610，你可以在里面知晓更多信息。
 
+4、我们怀疑ZQAT更新了反作弊，因此我们已经在今天绕过了最新的反作弊，若要获取请联系Veibae的邮箱。
+
 #### English;English
 1.We have released the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
 
