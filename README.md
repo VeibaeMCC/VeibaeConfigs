@@ -1,14 +1,3 @@
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-QQ3626595357你是不是不喜欢我了！！！
-
 # VeibaeConfigs
 最棒的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
 
@@ -23,7 +12,7 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 
 2、我们已经发布了hycraft的最新配置，修复了部分问题，但部分功能可能仍不稳定，如果你有更好的绕过思路可以告诉我们。
 
-3、如果你愿意帮助我们翻译请告诉我们。
+3、加入我们的QQ群785916610，你可以在里面知晓更多信息。
 
 #### English;English
 1.We have released the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
@@ -158,13 +147,4 @@ Baidu Translate
 ## Contact us
 E-mail:mccrunsun@outlook.com
 
-## The number of all users is 509.
-China：266 users
-
-America：131 users
-
-ietnam：69 users
-
-Brazil：32 users
-
-Myanmar：11 users
+Tencent QQ Group:785916610
