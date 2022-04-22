@@ -1,11 +1,20 @@
-# 我要亲亲抱抱举高高
-
 # VeibaeConfigs
 最大的免费配置供应方，我们发布基于FDP客户端的最佳配置，且提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
 The largest free configuration provider,we publish the best configuration based on FDP client,and provide help in three languages:Simplified Chinese,English,and Vietnamese,and the configs are made in China.
 
 Nhà cung cấp cấu hình miễn phí lớn nhất,chúng tôi xuất bản cấu hình tốt nhất dựa trên ứng dụng khách FDP và cung cấp trợ giúp bằng ba ngôn ngữ:Tiếng Trung giản thể,tiếng Anh và tiếng Việt,đồng thời cấu hình được sản xuất tại Trung Quốc.
+
+## Welcome
+### Choose one language.
+#### 简体中文;Simplified Chinese
+欢迎你访问我们的存储库，你可以在这里找到最新的配置以及稳定版本的FDP客户端，如果你对其他语言不熟悉，可以打开你的语言翻译插件辅助你。
+
+#### English;English
+Welcome!We are from China,so some Chinese are used in this Github repository,if you don't understand Chinese,you can use the language translation tool to help you.
+
+#### ViệtName;Vietnamese
+Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được sử dụng trong kho Github này,nếu bạn không hiểu tiếng Trung có thể sử dụng công cụ dịch ngôn ngữ giúp bạn.
 
 ## Notices
 ### Choose one language.
