@@ -79,13 +79,13 @@ ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
 
-liulihaocai
+liulihaocai(The owner of FDP Client)
 
 contionability
 
 FengXiaoSkidGod
 
-一任清风寻
+一任清风寻(Veibae's friend)
 
 ## Translation support
 Google Translate
