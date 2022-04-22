@@ -1,24 +1,26 @@
+# 我要亲亲抱抱举高高
+
 # VeibaeConfigs
-最棒的免费配置供应方，发布基于FDP客户端的最佳配置，绕过了多个我的世界服务器，且提供简体中文、英文、越南语三种语言的支持。
+最大的免费配置供应方，我们发布基于FDP客户端的最佳配置，且提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
-The best free configs provider releases the best configs based on FDP client,bypasses multiple my world servers,and provides support in simplified Chinese,English and Vietnamese.The configs are made in China.
+The largest free configuration provider,we publish the best configuration based on FDP client,and provide help in three languages:Simplified Chinese,English,and Vietnamese,and the configs are made in China.
 
-Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu hình tốt nhất dựa trên các máy chủ FDP,bỏ qua nhiều máy chủ thế giới của tôi,và hỗ trợ cho các thiết lập kiểu Trung Quốc,Anh và Việt.
+Nhà cung cấp cấu hình miễn phí lớn nhất,chúng tôi xuất bản cấu hình tốt nhất dựa trên ứng dụng khách FDP và cung cấp trợ giúp bằng ba ngôn ngữ:Tiếng Trung giản thể,tiếng Anh và tiếng Việt,đồng thời cấu hình được sản xuất tại Trung Quốc.
 
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、我们已经发布了hycraft的最新配置，修复了部分问题，但部分功能可能仍不稳定，如果你有更好的绕过思路可以告诉我们。
+1、接下来会有许多配置的更新，但也可能带来各种错误和问题，你可以将他们提交到github上。
 
 2、加入我们的QQ群785916610，你可以在里面知晓更多信息。
 
 #### English;English
-1.We have released the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
+1.There will be many configs updates in the future,but may also bring various bugs and problems,you can submit them to github.
 
 2.If you can help us to translate,please tell me.
 
 #### ViệtName;Vietnamese
-1.Chúng tôi sẽ phát hành cấu hình mới nhất của hycraft,có gì đó không tốt,nếu bạn có thể giúp chúng tôi vượt qua,vui lòng cho chúng tôi biết,cảm ơn.
+1.Sẽ có nhiều bản cập nhật cấu hình trong tương lai,nhưng cũng có thể mang đến nhiều lỗi và sự cố khác nhau,bạn có thể gửi chúng lên github.
 
 2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
@@ -74,7 +76,7 @@ contionability
 
 FengXiaoSkidGod
 
-任寻
+一任清风寻
 
 ## Translation support
 Google Translate
