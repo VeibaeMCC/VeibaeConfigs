@@ -8,13 +8,9 @@ Nhà cung cấp cấu hình miễn phí tốt nhất giải phóng các cấu h�
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、在mcyc配置中存在部分问题，将在今天修复。
+1、我们已经发布了hycraft的最新配置，修复了部分问题，但部分功能可能仍不稳定，如果你有更好的绕过思路可以告诉我们。
 
-2、我们已经发布了hycraft的最新配置，修复了部分问题，但部分功能可能仍不稳定，如果你有更好的绕过思路可以告诉我们。
-
-3、加入我们的QQ群785916610，你可以在里面知晓更多信息。
-
-4、我们怀疑ZQAT更新了反作弊，因此我们已经在今天绕过了最新的反作弊，若要获取请联系Veibae的邮箱。
+2、加入我们的QQ群785916610，你可以在里面知晓更多信息。
 
 #### English;English
 1.We have released the newest config of hycraft,something is not good,if you can help us to bypass,please tell us,thanks.
@@ -52,6 +48,8 @@ Kokscraft(kokscraft.pl)(custom anticheat)
 
 Lucky(luckynetwork.net)(verus and custom anticheat)
 
+Minemora(mc.minemora.net)(custom old AAC)
+
 Pika(pika.hosts)(matrix)
 
 Ruhypixel(ruhypixel.net)(matrix)
@@ -64,69 +62,6 @@ GameCraft(mcyc.win)(AAC5 and vulcan)
 Rocraft(rocraft.games)(verus and vulcan)
 
 ZQAT(zqat.top)(custom anticheat)
-
-## `特别活动`(面向中国用户;For Chinese users;Cho người dùng Trung Quốc)
-### 你真的了解Veibae吗，来测试一下吧！
-
-A组：难度低
-
-1、Veibae今年多大了？（一直在很多群提到过）
-
-2、Veibae今年上初几？（一直在很多群提到过）
-
-3、Veibae什么时候入圈的呢？（2019-2022年在FDP群、ccmlol群、任寻群、Veibae旧内部群、rocraft群提到过）
-
-B组：难度中
-
-1、Veibae最喜欢玩哪个服务器呢？（2021-2022年在FDP群，任寻群，rocraft群提到过）
-
-2、Veibae最喜欢抄哪个client源码呢？（2021年在FDP群、ccmlol群、rocraft群提到过）
-
-3、Veibae为什么最近经常失联呢？（2022年在任寻群、rocraft群提到过）
-
-C组：难度高
-
-1、Veibae喜欢在洗澡的时候干什么呢？（2022年在任寻群、rocraft群提到过）
-
-2、Veibae的狗狗是什么品种呢，现在大概多大了呢？（2022年在FDP群、任寻群提到过）
-
-3、Veibae的真实姓名叫什么呢？（2019年在梦想外部群提到过）
-
-D组：难度超级高
-
-1、Veibae当年入圈飘的第一个服务器是什么呢，反作弊呢？
-
-2、Veibae曾经使用过哪些PVP客户端呢？
-
-3、Veibae的xiong有多大呢？
-
-### 答案
-
-A1、15岁。
-
-A2、初四，山东威海五四制。
-
-A3、2017年末。
-
-B1、rocraft服务器。
-
-B2、liquidbounceplus客户端。
-
-B3、你说呢，我都说了多少次了。
-
-C1、自慰你懂吧哈哈哈。
-
-C2、柯基哦，两个多月大。
-
-C3、姓张，至于全名你不知道就不知道吧。
-
-D1、hypixel服务器，反作弊是watchdog。
-
-D2、smoke、melon这些。
-
-D3、可以告诉你我上次学校体检量的胸围是79cm。
-
-### 该模块将在2022年4月22日被删除。
 
 ## Special Thanks
 ll11l1lIllIl1lll(Veibae's close friend)
