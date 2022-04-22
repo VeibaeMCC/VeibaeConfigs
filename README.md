@@ -19,17 +19,17 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、接下来会有许多配置的更新，但也可能带来各种错误和问题，你可以将他们提交到github上。
+1、翻过日历才发现，今天和每一天都是不一样的，今天，“VeibaeConfigs”一岁啦，从最初的一名用户，到今天在全球已有109名用户，592位访客，29972次访问，我们为此对每一位支持我们的人表示感谢，我们已经发布了部分最新的配置，它们都使用了最新的视觉效果，希望你喜欢！
 
-2、加入我们的QQ群785916610，你可以在里面知晓更多信息。
+2、如果你想单独联系到Veibae并且不通过邮箱的话，可以进QQ群905415155，你可以在群里找到我。
 
 #### English;English
-1.There will be many configs updates in the future,but may also bring various bugs and problems,you can submit them to github.
+1.Looking through the calendar,I found that today is different from every day.Today,"VeibaeConfigs" is one year old.From its initial user,it has 109 users,592 visitors and 29972 visits around the world.We thank everyone who supports us for this.We have released some of the latest configurations,which use the latest visual effects.I hope you like it!
 
 2.If you can help us to translate,please tell me.
 
 #### ViệtName;Vietnamese
-1.Sẽ có nhiều bản cập nhật cấu hình trong tương lai,nhưng cũng có thể mang đến nhiều lỗi và sự cố khác nhau,bạn có thể gửi chúng lên github.
+1.Nhìn qua lịch,tôi thấy ngày hôm nay khác hẳn với mỗi ngày.Hôm nay,"VeibaeConfigs"là một năm tuổi.Từ người dùng đầu tiên của nó,nó có người dùng 109,hành khách 92 và 29972 viếng thăm khắp thế giới.Chúng tôi cảm ơn mọi người đã hỗ trợ chúng tôi vì điều này.Chúng tôi đã phát hành vài cấu hình mới nhất,sử dụng hiệu ứng thị mới nhất.
 
 2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
@@ -96,7 +96,5 @@ Microsoft Translator
 
 ## Contact us
 E-mail:mccrunsun@outlook.com
-
-Tencent QQ Group:785916610
 
 RenXun's Tencent QQ Group:905415155(Our Partners)
