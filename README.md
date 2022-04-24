@@ -1,9 +1,9 @@
-# VeibaeConfigs
-最大的免费配置供应方，我们发布基于FDP客户端的最佳配置，且提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
+# VeibaeConfigs / Veibae Config Service Station
+我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
-The largest free configuration provider,we publish the best configuration based on FDP client,and provide help in three languages:Simplified Chinese,English,and Vietnamese,and the configs are made in China.
+Minecraft FDP client config service station provides help in simplified Chinese,English and Vietnamese.The configuration is made in China.
 
-Nhà cung cấp cấu hình miễn phí lớn nhất,chúng tôi xuất bản cấu hình tốt nhất dựa trên ứng dụng khách FDP và cung cấp trợ giúp bằng ba ngôn ngữ:Tiếng Trung giản thể,tiếng Anh và tiếng Việt,đồng thời cấu hình được sản xuất tại Trung Quốc.
+Trạm cấu hình khách hàng thế giới của tôi cung cấp trợ giúp trong việc đơn giản Trung Quốc,Anh và Việt.Cấu hình được thực hiện ở Trung Quốc.
 
 ## Welcome
 ### Choose one language.
@@ -35,6 +35,8 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
+
+### We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not recognize the history of Japanese aggression against China.
 
 ## How to use our configs
 ### Choose one language.
