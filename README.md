@@ -83,6 +83,9 @@ FengXiaoSkidGod
 
 一任清风寻(Veibae's friend)
 
+## Players whose parents are dead
+ID:MovMofGey Server:Jartex/Pika Reason:Racial discrimination
+
 ## Translation support
 Google Translate
 
