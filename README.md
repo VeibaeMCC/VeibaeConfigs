@@ -1,4 +1,4 @@
-# VeibaeConfigs / Veibae Config Service Station
+# Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
 Minecraft FDP client config service station provides help in simplified Chinese,English and Vietnamese.The configuration is made in China.
@@ -19,19 +19,13 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、翻过日历才发现，今天和每一天都是不一样的，今天，“VeibaeConfigs”一岁啦，从最初的一名用户，到今天在全球已有109名用户，592位访客，29972次访问，我们为此对每一位支持我们的人表示感谢，我们已经发布了部分最新的配置，它们都使用了最新的视觉效果，希望你喜欢！
-
-2、如果你想单独联系到Veibae并且不通过邮箱的话，可以进QQ群905415155，你可以在群里找到我。
+1、如果你想单独联系到Veibae并且不通过邮箱的话，可以进QQ群905415155，你可以在群里找到我。
 
 #### English;English
-1.Looking through the calendar,I found that today is different from every day.Today,"VeibaeConfigs" is one year old.From its initial user,it has 109 users,592 visitors and 29972 visits around the world.We thank everyone who supports us for this.We have released some of the latest configurations,which use the latest visual effects.I hope you like it!
-
-2.If you can help us to translate,please tell me.
+1.If you can help us to translate,please tell me.
 
 #### ViệtName;Vietnamese
-1.Nhìn qua lịch,tôi thấy ngày hôm nay khác hẳn với mỗi ngày.Hôm nay,"VeibaeConfigs"là một năm tuổi.Từ người dùng đầu tiên của nó,nó có người dùng 109,hành khách 92 và 29972 viếng thăm khắp thế giới.Chúng tôi cảm ơn mọi người đã hỗ trợ chúng tôi vì điều này.Chúng tôi đã phát hành vài cấu hình mới nhất,sử dụng hiệu ứng thị mới nhất.
-
-2.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
+1.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
