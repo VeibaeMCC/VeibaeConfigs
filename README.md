@@ -30,7 +30,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
 
-### We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not recognize the history of Japanese aggression against China.
+### We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.
 
 ## How to use our configs
 ### Choose one language.
