@@ -21,9 +21,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 #### 简体中文;Simplified Chinese
 1、由于blocksmc反作弊更新，我们发布了最新的修复性版本，此版本为预发布版本，正式版本将在明天发布。
 
-2、即日起，ZQAT配置恢复在github更新，原因我们不便透露。
-
-3、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
+2、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
 
 #### English;English
 1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
@@ -102,7 +100,5 @@ Microsoft Translator
 
 ## Contact us
 E-mail:mccrunsun@outlook.com
-
-QQ:2460031134
 
 RenXun's Tencent QQ Group:905415155(Our Partners)
