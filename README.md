@@ -59,11 +59,11 @@ Vui lòng thăm kho lưu trữ GitHub trước,tìm thư mục "`配置`" trong 
 
 ## Servers that we can bypass
 ### General servers
-Blocksmc(blocksmc.com)(verus)[main]
+Blocksmc(blocksmc.com)(verus)`main`
 
 Hycraft(mc.hycraft.us)(custom vulcan)
 
-Jartex(jartex.fun)(matrix)[main]
+Jartex(jartex.fun)(matrix)`main`
 
 Kokscraft(kokscraft.pl)(custom anticheat)
 
@@ -71,7 +71,7 @@ Lucky(luckynetwork.net)(verus and custom anticheat)
 
 Minemora(mc.minemora.net)(custom old AAC)
 
-Pika(pika.hosts)(matrix)[main]
+Pika(pika.hosts)(matrix)`main`
 
 Ruhypixel(ruhypixel.net)(matrix)
 
@@ -80,7 +80,7 @@ GameCraft(mcyc.win)(AAC5 and vulcan)
 
 欢乐村(9wmc.xyz)(custom anticheat)
 
-Rocraft(rocraft.games)(verus and vulcan)[main]
+Rocraft(rocraft.games)(verus and vulcan)`main`
 
 ZQAT(zqat.top)(custom anticheat)
 
