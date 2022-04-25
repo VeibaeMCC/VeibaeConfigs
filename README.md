@@ -23,15 +23,21 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 
 2、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
 
+3、最新更新的jartex与pika服务器配置回弹率已由原来的79.67%降至9.15%，建议使用killaura时按住你的空格键跑跳打人。
+
 #### English;English
 1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
 
 2.All newly released configurations use the latest visual settings.If you have a better idea,you can tell us.
 
+3.The rebound rate of the newly updated jartex and pika server configuration has been reduced from 79.67% to 9.15%.It is recommended to press and hold your space bar when using Killaura.
+
 #### ViệtName;Vietnamese
 1.Do bản cập nhật chống gian lận của tắc nghẽn,chúng tôi đã công bố phiên bản sửa chữa mới nhất.phiên bản này là phiên bản hẹn hò,và phiên bản chính thức sẽ được phát hành vào ngày mai.
 
 2.Tất cả các cấu hình được phóng thích mới đều dùng thiết lập hình ảnh mới nhất.Nếu bạn có ý tưởng hay hơn,bạn có thể cho chúng tôi biết.
+
+3.Hệ thống phục vụ thay thế của máy phục vụ pika đã bị giảm dần từ 89.67 Nó được khuyên nên ấn và giữ thanh không gian khi dùng Killaura.
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
