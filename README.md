@@ -19,13 +19,21 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、如果你想单独联系到Veibae并且不通过邮箱的话，可以进QQ群905415155，你可以在群里找到我。
+1、由于blocksmc反作弊更新，我们发布了最新的修复性版本，此版本为预发布版本，正式版本将在明天发布。
+
+2、即日起，ZQAT配置恢复在github更新，原因我们不便透露。
+
+3、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
 
 #### English;English
-1.If you can help us to translate,please tell me.
+1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
+
+2.All newly released configurations use the latest visual settings.If you have a better idea,you can tell us.
 
 #### ViệtName;Vietnamese
-1.Nếu anh có thể giúp chúng tôi dịch,xin hãy cho tôi biết.
+1.Do bản cập nhật chống gian lận của tắc nghẽn,chúng tôi đã công bố phiên bản sửa chữa mới nhất.phiên bản này là phiên bản hẹn hò,và phiên bản chính thức sẽ được phát hành vào ngày mai.
+
+2.Tất cả các cấu hình được phóng thích mới đều dùng thiết lập hình ảnh mới nhất.Nếu bạn có ý tưởng hay hơn,bạn có thể cho chúng tôi biết.
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
@@ -83,8 +91,7 @@ FengXiaoSkidGod
 
 一任清风寻(Veibae's friend)
 
-## Players whose parents are dead
-ID:MovMofGey Server:Jartex/Pika Reason:Racial discrimination
+Qenqy(Youtuber)
 
 ## Translation support
 Google Translate
@@ -95,5 +102,7 @@ Microsoft Translator
 
 ## Contact us
 E-mail:mccrunsun@outlook.com
+
+QQ:2460031134
 
 RenXun's Tencent QQ Group:905415155(Our Partners)
