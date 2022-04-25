@@ -25,6 +25,8 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 
 3、最新更新的jartex与pika服务器配置回弹率已由原来的79.67%降至9.15%，建议使用killaura时按住你的空格键跑跳打人。
 
+4、我们的rocraft服务器配置默认不打开`strafe`和`targetstrafe`，如果你玩的是`职业战争`，可以将它们打开。
+
 #### English;English
 1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
 
