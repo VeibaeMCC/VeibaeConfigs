@@ -1,3 +1,5 @@
+# 家人们对不起，我忘记更新bmc配置了，等我出去吃个饭回来更新！！！
+
 # Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
