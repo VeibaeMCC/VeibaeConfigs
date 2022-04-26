@@ -27,6 +27,8 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 
 4、我们的rocraft服务器配置默认不打开`strafe`和`targetstrafe`，如果你玩的是`职业战争`，可以将它们打开。
 
+5、我们已经发布了最新的hycraft服务器配置，不要同时使用killaura和scaffold两个功能。
+
 #### English;English
 1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
 
@@ -34,12 +36,16 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 
 3.The rebound rate of the newly updated jartex and pika server configuration has been reduced from 79.67% to 9.15%.It is recommended to press and hold your space bar when using Killaura.
 
+4.We have released the latest hycraft server configuration.Don't use Killaura and scaffold at the same time.
+
 #### ViệtName;Vietnamese
 1.Do bản cập nhật chống gian lận của tắc nghẽn,chúng tôi đã công bố phiên bản sửa chữa mới nhất.phiên bản này là phiên bản hẹn hò,và phiên bản chính thức sẽ được phát hành vào ngày mai.
 
 2.Tất cả các cấu hình được phóng thích mới đều dùng thiết lập hình ảnh mới nhất.Nếu bạn có ý tưởng hay hơn,bạn có thể cho chúng tôi biết.
 
 3.Hệ thống phục vụ thay thế của máy phục vụ pika đã bị giảm dần từ 89.67 Nó được khuyên nên ấn và giữ thanh không gian khi dùng Killaura.
+
+4.Chúng t ôi đã công bố cấu hình máy phục vụ,không được dùng Killlaura và đầm lầy cùng một lúc.
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
