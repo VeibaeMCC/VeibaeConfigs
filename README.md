@@ -1,4 +1,4 @@
-# 家人们对不起，我进不去bmc了，等我明天更新aaa！！！
+# 呜呜呜，BMC有autoban了，几年的青春也要结束了，最新空岛配置已发布，起床战争请继续等待。
 
 # Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
@@ -21,7 +21,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、由于blocksmc反作弊更新，我们发布了最新的修复性版本，此版本为预发布版本，正式版本将在明天发布。
+1、由于blocksmc反作弊更新，我们发布了最新的修复性版本请务必在完整方块上表面打开fly功能再飞，不要飞太远。
 
 2、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
 
