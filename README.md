@@ -1,22 +1,12 @@
+# 我们对FDP客户端的停止支持感到难过，接下来我们将会使用其他客户端继续更新，因此该github将会暂时关闭，维护结束后恢复开放，维护大约需要2天时间。
+# We are sorry to stop the support of FDP client.Next,we will continue to update with other clients.Therefore,the GitHub will be temporarily closed and reopened after maintenance.The maintenance will take about 2 days.
+
 # Veibae Configs / Veibae Config Service Station
-我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
+我的世界`404 NOT FOUND`配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
-Minecraft FDP client config service station provides help in simplified Chinese,English and Vietnamese.The configuration is made in China.
+Minecraft `404 NOT FOUND` config service station provides help in simplified Chinese,English and Vietnamese.The configuration is made in China.
 
-Trạm cấu hình khách hàng thế giới của tôi cung cấp trợ giúp trong việc đơn giản Trung Quốc,Anh và Việt.Cấu hình được thực hiện ở Trung Quốc.
-
-## 紧急通知
-Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-
-Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-
-Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-
-Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
-
-Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
-
-Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
+`404 NOT FOUND`
 
 ## Welcome
 ### Choose one language.
@@ -32,13 +22,13 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、由于blocksmc反作弊更新，我们发布了最新的修复性版本。
+1、`404 NOT FOUND`
 
 #### English;English
-1.Due to the anti cheating update of blocksmc,we have released the latest fixed version.Please be sure to turn on the fly function on the upper surface of the complete box before flying.Don't fly too far.The infinite high-speed flight will be updated according to the plan in the future.
+1.`404 NOT FOUND`
 
 #### ViệtName;Vietnamese
-1.Do hệ thống chống gian lận cập nhật hình tắc nghẽn,chúng tôi đã công bố phiên bản cố định mới nhất.Vui lòng khởi động chức năng bay trên bề mặt trên của to àn bộ hộp trước khi bay.Đừng bay quá xa.Chuyến bay vận t ốc vô hạn sẽ được cập nhật theo kế hoạch trong tương lai.
+1.`404 NOT FOUND`
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
@@ -90,13 +80,9 @@ guimc233(Veibae's boyfriend)
 
 liulihaocai(The owner of FDP Client)
 
-contionability
-
 FengXiaoSkidGod
 
 一任清风寻(Veibae's friend)
-
-Qenqy(Youtuber)
 
 ## Translation support
 Google Translate
