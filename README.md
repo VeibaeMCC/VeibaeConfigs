@@ -61,7 +61,7 @@ Minemora(mc.minemora.net)(custom old AAC)
 
 Pika(pika.hosts)(matrix)`main`
 
-Ruhypixel(ruhypixel.net)(matrix)
+Ruhypixel(ruhypixel.net)(matrix)`main`
 
 ### Chinese servers
 GameCraft(mcyc.win)(AAC5 and vulcan)
