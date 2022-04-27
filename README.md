@@ -1,4 +1,10 @@
-# 呜呜呜，BMC有autoban了，几年的青春也要结束了，最新空岛配置已发布，起床战争请继续等待，希望今天应该能发布吧。
+# 紧急通知
+## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
+## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
+## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
 
 # Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
