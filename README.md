@@ -21,7 +21,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、由于blocksmc反作弊更新，我们发布了最新的修复性版本请务必在完整方块上表面打开fly功能再飞，不要飞太远。
+1、由于blocksmc反作弊更新，我们发布了最新的修复性版本。请务必在完整方块上表面打开fly功能再飞，不要飞太远，未来会按照计划更新无限高速飞。
 
 2、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
 
@@ -32,7 +32,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 5、我们已经发布了最新的hycraft服务器配置，不要同时使用killaura和scaffold两个功能。
 
 #### English;English
-1.Due to the anti cheating update of blocksmc,we have released the latest repair version.This version is a pre release version,and the official version will be released tomorrow.
+1.Due to the anti cheating update of blocksmc,we have released the latest fixed version.Please be sure to turn on the fly function on the upper surface of the complete box before flying.Don't fly too far.The infinite high-speed flight will be updated according to the plan in the future.
 
 2.All newly released configurations use the latest visual settings.If you have a better idea,you can tell us.
 
@@ -41,7 +41,7 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 4.We have released the latest hycraft server configuration.Don't use Killaura and scaffold at the same time.
 
 #### ViệtName;Vietnamese
-1.Do bản cập nhật chống gian lận của tắc nghẽn,chúng tôi đã công bố phiên bản sửa chữa mới nhất.phiên bản này là phiên bản hẹn hò,và phiên bản chính thức sẽ được phát hành vào ngày mai.
+1.Do hệ thống chống gian lận cập nhật hình tắc nghẽn,chúng tôi đã công bố phiên bản cố định mới nhất.Vui lòng khởi động chức năng bay trên bề mặt trên của to àn bộ hộp trước khi bay.Đừng bay quá xa.Chuyến bay vận t ốc vô hạn sẽ được cập nhật theo kế hoạch trong tương lai.
 
 2.Tất cả các cấu hình được phóng thích mới đều dùng thiết lập hình ảnh mới nhất.Nếu bạn có ý tưởng hay hơn,bạn có thể cho chúng tôi biết.
 
