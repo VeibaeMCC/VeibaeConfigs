@@ -1,17 +1,17 @@
-# 紧急通知
-## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-## Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
-## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
-## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
-## Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
-
 # Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
 
 Minecraft FDP client config service station provides help in simplified Chinese,English and Vietnamese.The configuration is made in China.
 
 Trạm cấu hình khách hàng thế giới của tôi cung cấp trợ giúp trong việc đơn giản Trung Quốc,Anh và Việt.Cấu hình được thực hiện ở Trung Quốc.
+
+## 紧急通知
+Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+Veibae的twitter账号遭到封禁，所有订阅者请暂时在github浏览解封最新进度。
+Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
+Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
+Veibae's Twitter account has been banned.All subscribers please browse the latest progress of unblocking in GitHub temporarily.
 
 ## Welcome
 ### Choose one language.
