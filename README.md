@@ -1,4 +1,4 @@
-# 呜呜呜，BMC有autoban了，几年的青春也要结束了，最新空岛配置已发布，起床战争请继续等待。
+# 呜呜呜，BMC有autoban了，几年的青春也要结束了，最新空岛配置已发布，起床战争请继续等待，希望今天应该能发布吧。
 
 # Veibae Configs / Veibae Config Service Station
 我的世界FDP客户端配置服务站，提供简体中文、英文、越南语三种语言的帮助，配置在中国被制作。
@@ -21,33 +21,13 @@ Chúng tôi đến từ Trung Quốc,vì vậy một số tiếng Trung được
 ## Notices
 ### Choose one language.
 #### 简体中文;Simplified Chinese
-1、由于blocksmc反作弊更新，我们发布了最新的修复性版本。请务必在完整方块上表面打开fly功能再飞，不要飞太远，未来会按照计划更新无限高速飞。
-
-2、所有新发布的配置都使用了最新的视觉设置，如果你有更好的想法可以告诉我们。
-
-3、最新更新的jartex与pika服务器配置回弹率已由原来的79.67%降至9.15%，建议使用killaura时按住你的空格键跑跳打人。
-
-4、我们的rocraft服务器配置默认不打开`strafe`和`targetstrafe`，如果你玩的是`职业战争`，可以将它们打开。
-
-5、我们已经发布了最新的hycraft服务器配置，不要同时使用killaura和scaffold两个功能。
+1、由于blocksmc反作弊更新，我们发布了最新的修复性版本。
 
 #### English;English
 1.Due to the anti cheating update of blocksmc,we have released the latest fixed version.Please be sure to turn on the fly function on the upper surface of the complete box before flying.Don't fly too far.The infinite high-speed flight will be updated according to the plan in the future.
 
-2.All newly released configurations use the latest visual settings.If you have a better idea,you can tell us.
-
-3.The rebound rate of the newly updated jartex and pika server configuration has been reduced from 79.67% to 9.15%.It is recommended to press and hold your space bar when using Killaura.
-
-4.We have released the latest hycraft server configuration.Don't use Killaura and scaffold at the same time.
-
 #### ViệtName;Vietnamese
 1.Do hệ thống chống gian lận cập nhật hình tắc nghẽn,chúng tôi đã công bố phiên bản cố định mới nhất.Vui lòng khởi động chức năng bay trên bề mặt trên của to àn bộ hộp trước khi bay.Đừng bay quá xa.Chuyến bay vận t ốc vô hạn sẽ được cập nhật theo kế hoạch trong tương lai.
-
-2.Tất cả các cấu hình được phóng thích mới đều dùng thiết lập hình ảnh mới nhất.Nếu bạn có ý tưởng hay hơn,bạn có thể cho chúng tôi biết.
-
-3.Hệ thống phục vụ thay thế của máy phục vụ pika đã bị giảm dần từ 89.67 Nó được khuyên nên ấn và giữ thanh không gian khi dùng Killaura.
-
-4.Chúng t ôi đã công bố cấu hình máy phục vụ,không được dùng Killlaura và đầm lầy cùng một lúc.
 
 ## Statement
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
