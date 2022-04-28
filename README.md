@@ -21,26 +21,17 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、我们已经发布了最新的Blocksmc空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
+    1、我们已经发布了最新的Blocksmc和Hycraft空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
     
-    2、很抱歉，ZQAT配置再次停止更新，恢复更新时间请等待通知。
+    2、今天可能会再次维护存储库，但北京时间今晚八点以后一定会开放。
 
 ### Worldwide ; 全球
     1.We have released the latest Blocksmc Skywars configuration,some functions still need to be optimized,please wait for the update of the subsequent version.
     
     2.If you can help us to translate,please tell us,thanks!
 
-## Temporary zone ; 临时专区
-相信很多人已经发现了FDP的github和官网在今天关闭了，虽然现在已经恢复。琉璃姐姐给我提供了最早的写端思路，也帮我熟悉了一大堆乱七八糟的语法，今天FDP挂了急得孩子差点哭了，五分钟给琉璃姐姐发了二百多条消息，差点这个开放了一年的存储库也要和大家告别了，在得知FDP还可能继续更新后，我又从本地重新把所有内容git回了存储库，于是就像现在这样。总之我不会忘了琉璃大宝贝的，我在天堂服务器的模型都和你面对面，fengxiao姐姐都不稀罕和他挨着。
-
-### 给琉璃姐姐送花啦！:rose::rose::rose:
-
----
-
-I believe many people have found that the GitHub and official website of FDP have been closed today,although they have been restored now.Sister Liuli provided me with the earliest writing ideas and helped me get familiar with a lot of messy grammar.Today, the FDP hung up and the child almost cried.She sent more than 200 messages to sister Liuli in five minutes.Almost the repository that has been open for a year will say goodbye to you.After learning that the FDP may continue to be updated,I put all the content git back to the repository locally,so just like now.In short,I won't forget the big baby of Liuli.My models on the paradise server are face-to-face with you.Sister fengxiao doesn't want to be next to him.
-
-### Send flowers to sister Liuli!:rose::rose::rose:
-
+## 给琉璃姐姐送花啦！:rose::rose::rose:
+## Send flowers to sister Liuli!:rose::rose::rose:
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
 
@@ -75,39 +66,39 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
-    Blocksmc(blocksmc.com)(custom anticheat)
+    Blocksmc(blocksmc.com)(Custom Vulcan)
     
-    Hycraft(mc.hycraft.us)(custom vulcan)
+    Hycraft(mc.hycraft.us)(Custom Vulcan)
 
-    Jartex(jartex.fun)(matrix)
+    Jartex(jartex.fun)(Matrix)
     
-    Kokscraft(kokscraft.pl)(custom anticheat)
+    Kokscraft(kokscraft.pl)(Custom Anticheat)
     
-    Lucky(luckynetwork.net)(custom matrix and old verus)
+    Lucky(luckynetwork.net)(Custom Matrix And Old Verus)
 
-    Minemora(mc.minemora.net)(custom old AAC)
+    Minemora(mc.minemora.net)(Custom Old AAC)
     
-    Pika(pika.hosts)(matrix)
+    Pika(pika.hosts)(Matrix)
     
-    Ruhypixel(ruhypixel.net)(matrix)
+    Ruhypixel(ruhypixel.net)(Matrix)
 
 ### Chinese servers ; 中国服务器
-    GameCraft(mcyc.win)(AAC5 and vulcan)
+    GameCraft(mcyc.win)(AAC5 And Verus And Vulcan)
     
-    欢乐村(9wmc.xyz)(custom anticheat)
+    欢乐村(9wmc.xyz)(Custom Anticheat)
     
-    Rocraft(rocraft.games)(verus and vulcan and custom anticheat)
+    Rocraft(rocraft.games)(Verus And Vulcan And Custom Anticheat)
     
-    ZQAT(zqat.top)(custom anticheat based matrix)
+    ZQAT(zqat.top)(Custom Anticheat Based Matrix)
 
 ## Special Thanks ; 特别鸣谢:kissing_heart:
-liulihaocai(The first owner of FDP Client)
+liulihaocai(Former a member of the UnlegitMC Team and the owner of FDP Client)
 
 ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
 
-xiguagege(The second owner of FDP Client)
+xiguagege(A developer of FDP Client)
 
 一任清风寻(Veibae's friend)
 
