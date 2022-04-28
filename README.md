@@ -59,7 +59,7 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
     
     ZQAT(zqat.top)(custom anticheat)
 
-## Special Thanks ; 特别鸣谢
+## Special Thanks ; 特别鸣谢:kissing_heart:
 liulihaocai(The owner of FDP Client)
 
 ll11l1lIllIl1lll(Veibae's close friend)
@@ -77,10 +77,10 @@ Baidu Translate
 
 Microsoft Translator
 
-## Contact us ; 联系我们
-E-mail:*mccrunsun@outlook.com*
+## Contact us ; 联系我们:telephone:
+E-mail:*mccrunsun@outlook.com*:e-mail:
 
-RenXun's Tencent QQ Group:*905415155*(Our Partners)
+RenXun's Tencent QQ Group:*905415155*(Our Partners):speech_balloon:
 
 ---
 
