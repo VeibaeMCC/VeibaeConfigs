@@ -30,7 +30,27 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
 ***We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.*** :exclamation:
 
 ## How to use our configs ; 如何使用我们的配置
-`该模块即将大更新，请等待最终效果`
+1.Visit [***`https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE`***](https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE),choose one server that you need and click,find a config you want,and right click on it,and click ***`Save Link as`***.
+
+1、访问[***`https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE`***](https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE)，选择你想玩的服务器并点击，找到你想要的配置，然后右键点击它，选择`将链接另存为`。
+
+![](https://github.com/VeibaeMCC/Pictures/blob/main/list.png)
+
+---
+
+2.Find the config that is saved on your PC,move it to ***`Configs`*** folder in the folder of FDP Client.
+
+2、找到你保存在电脑中的配置，将配置移动到FDP文件夹中的`Configs`文件夹。
+
+![](https://github.com/VeibaeMCC/Pictures/blob/main/folder.png)
+
+---
+
+3.Enter the game,Enter ***`.config load (the name of the config)`*** in the chat bar to load the config.
+
+3、进入游戏，在聊天栏输入 ***`.config load (the name of the config)`*** 来加载配置。
+
+![](https://github.com/VeibaeMCC/Pictures/blob/main/input.png)
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
