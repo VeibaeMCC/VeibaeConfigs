@@ -54,7 +54,7 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
-    Blocksmc(blocksmc.com)(custom verus)
+    Blocksmc(blocksmc.com)(custom anticheat)
     
     Hycraft(mc.hycraft.us)(custom vulcan)
 
@@ -75,16 +75,18 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
     
     欢乐村(9wmc.xyz)(custom anticheat)
     
-    Rocraft(rocraft.games)(verus and vulcan)
+    Rocraft(rocraft.games)(verus and vulcan and custom anticheat)
     
-    ZQAT(zqat.top)(custom anticheat)
+    ZQAT(zqat.top)(custom anticheat based matrix)
 
 ## Special Thanks ; 特别鸣谢:kissing_heart:
-liulihaocai(The owner of FDP Client)
+liulihaocai(The first owner of FDP Client)
 
 ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
+
+xiguagege(The second owner of FDP Client)
 
 一任清风寻(Veibae's friend)
 
