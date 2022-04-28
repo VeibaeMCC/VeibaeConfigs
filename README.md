@@ -16,12 +16,13 @@ The free FDP client configuration publisher,all configurations are made in China
 ## Notices ; 公告
 ### China region ; 中国地区
     1、我们已经发布了最新的Blocksmc空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
+    
+    2、ZQAT配置在此停止更新，恢复更新时间请等待通知。
 
 ### Worldwide ; 全球
     1.We have released the latest Blocksmc Skywars configuration,some functions still need to be optimized,please wait for the update of the subsequent version.
     
-    2.fghfghfghfghfghfghfghfgh
-
+    2.If you can help us to translate,please tell us,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
@@ -54,31 +55,31 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
     
     欢乐村(9wmc.xyz)(custom anticheat)
     
-    Rocraft(rocraft.games)(verus and vulcan)`main`
+    Rocraft(rocraft.games)(verus and vulcan)
     
     ZQAT(zqat.top)(custom anticheat)
 
 ## Special Thanks ; 特别鸣谢
+liulihaocai(The owner of FDP Client)
+
 ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
-
-liulihaocai(The owner of FDP Client)
 
 一任清风寻(Veibae's friend)
 
 Qenqy(Youtuber)
 
-## Translation support
+## Translation support ; 翻译支持
 Google Translate
 
 Baidu Translate
 
 Microsoft Translator
 
-## Contact us
-E-mail:mccrunsun@outlook.com
+## Contact us ; 联系我们
+E-mail:*mccrunsun@outlook.com*
 
-RenXun's Tencent QQ Group:905415155(Our Partners)
+RenXun's Tencent QQ Group:*905415155*(Our Partners)
 
-[***回到顶部***](#readme)
+[***Back to the top ; 回到顶部***](#readme)
