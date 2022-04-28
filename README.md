@@ -1,7 +1,7 @@
 # Veibae Config Service Station ; Veibae的配置服务站:star:
-**Free FDP client configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
+**Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
-**免费的FDP客户端配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
+**免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
 
 ---
 
