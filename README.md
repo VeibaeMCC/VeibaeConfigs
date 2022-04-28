@@ -1,7 +1,9 @@
 # Veibae Config Service Station ; Veibae的配置服务站:star:
-Free FDP client configuration provider,the current repository update channel is BETA,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.
+**Free FDP client configuration provider,the current repository update channel is BETA,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
-免费的FDP客户端配置提供方，当前存储库更新通道为BETA，服务于东亚、东南亚、西欧、北美等地区的黑客们。
+**免费的FDP客户端配置提供方，当前存储库更新通道为BETA，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
+
+---
 
 [![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures/FDP%20Client.png "FDP Client On Top!")](https://getfdp.today/)
 
@@ -13,80 +15,68 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-1、~~示例。~~
+    1、我们已经发布了最新的Blocksmc空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
 
 ### Worldwide ; 全球
-1.~~Something.~~
+    1.We have released the latest Blocksmc Skywars configuration,some functions still need to be optimized,please wait for the update of the subsequent version.
 
 
 ## Statement ; 声明
-Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.:exclamation:
+Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
 
-***We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.***:exclamation:
+***We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.*** :exclamation:
 
 ## How to use our configs ; 如何使用我们的配置
 `该模块即将大更新，请等待最终效果`
 
--------------------------------------
+## Servers that we can bypass ; 我们能绕过的服务器
+### General servers ; 一般服务器
+    Blocksmc(blocksmc.com)(custom verus)
+    
+    Hycraft(mc.hycraft.us)(custom vulcan)
 
-## Servers that we can bypass
-### General servers
-Blocksmc(blocksmc.com)(custom verus)`main`
+    Jartex(jartex.fun)(matrix)
+    
+    Kokscraft(kokscraft.pl)(custom anticheat)
+    
+    Lucky(luckynetwork.net)(custom matrix and old verus)
 
-Hycraft(mc.hycraft.us)(custom vulcan)
+    Minemora(mc.minemora.net)(custom old AAC)
+    
+    Pika(pika.hosts)(matrix)
+    
+    Ruhypixel(ruhypixel.net)(matrix)
 
-Jartex(jartex.fun)(matrix)`main`
+### Chinese servers ; 中国服务器
+    GameCraft(mcyc.win)(AAC5 and vulcan)
+    
+    欢乐村(9wmc.xyz)(custom anticheat)
+    
+    Rocraft(rocraft.games)(verus and vulcan)`main`
+    
+    ZQAT(zqat.top)(custom anticheat)
 
-Kokscraft(kokscraft.pl)(custom anticheat)
-
-
-Lucky(luckynetwork.net)(custom matrix and old verus)
-
-
-
-Minemora(mc.minemora.net)(custom old AAC)
-
-Pika(pika.hosts)(matrix)`main`
-
-
-
-Ruhypixel(ruhypixel.n
-
-
-et)(matrix)`main`
-
-### Chinese servers
-GameCraft(mcyc.win)(AAC5 and vulcan)
-
-欢乐村(9wmc.xyz)(custom a
-nticheat)
-
-Rocraft(rocraft.games)(verus and vulcan)`main`
-
-ZQAT(zqat.top)(custom anticheat)
-
-## Special Thanks
-ll11l1lIllIl1lll(Veibae's close friend)
-
-guimc233(Veibae's boyfriend)
-
-liuliha`404 NOT FOUND`ocai(The owner of `404 NOT FOUND` Client)
-
-FengXiaoSkidGod
-
-
-`404 NOT FOUND`
-
-一任清风寻(Veibae's friend)
+## Special Thanks ; 特别鸣谢
+    ll11l1lIllIl1lll(Veibae's close friend)
+    
+    guimc233(Veibae's boyfriend)
+    
+    liulihaocai(The owner of FDP Client)
+    
+    一任清风寻(Veibae's friend)
+    
+    Qenqy(Youtuber)
 
 ## Translation support
-Google Translate
-
-Baidu Translate
-
-Microsoft Translator
+    Google Translate
+    
+    Baidu Translate
+    
+    Microsoft Translator
 
 ## Contact us
-E-mail:mccrunsun@outlook.com
+    E-mail:mccrunsun@outlook.com
+    
+    RenXun's Tencent QQ Group:905415155(Our Partners)
 
-RenXun's Tencent QQ Group:905415155(Our Partners)
+[回到顶部](#readme)
