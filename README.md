@@ -40,7 +40,7 @@ Veibae is attached to the people's Republic of China and abides by the laws of t
 
 2.Find the config that is saved on your PC,move it to ***`Configs`*** folder in the folder of FDP Client.
 
-2、找到你保存在电脑中的配置，将配置移动到FDP文件夹中的`Configs`文件夹。
+2、找到你保存在电脑中的配置，将配置移动到FDP文件夹中的 ***`Configs`*** 文件夹。
 
 ![](https://github.com/VeibaeMCC/Pictures/blob/main/folder.png)
 
