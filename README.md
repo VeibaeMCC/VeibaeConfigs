@@ -1,38 +1,33 @@
-# 我们是忠诚的，虽然FDP可能将会成为无法抹去的历史，但我们仍不会使用其他客户端更新，只会偶尔发布基于FDP客户端的自定义构建，但我们可能不会公开源码。
-# 该存储库中目前存在大量引用URL与重定向错误，我们将在今天下午暂时关闭该存储库进行维护工作，预计今晚恢复开放。:smile:
+# Veibae Config Service Station ; Veibae的配置服务站:star:
+Free FDP client configuration provider,the current repository update channel is BETA,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.
 
-# Veibae Configs / Veibae Config Service Station
-Under maintenance...
+免费的FDP客户端配置提供方，当前存储库更新通道为BETA，服务于东亚、东南亚、西欧、北美等地区的黑客们。
 
-## Welcome
-Under maintenance...
+[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures/FDP%20Client.png "FDP Client On Top!")](https://getfdp.today/)
 
-## Notices
-### Choose one language.
-#### 简体中文;Simplified Chinese
-1、`404 NOT FOUND`
-Under maintenance
+## Introduction ; 介绍
+### Overview ; 概述
+The free FDP client configuration publisher,all configurations are made in China,and the FDP client is also made in China.We provide both Chinese and English in this repository.If you have better suggestions,you can submit them on Github.:heart:
 
-#### English;English
-1.`404 NOT FOUND`
-Under maintenance
+免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在该存储库中提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
 
-#### ViệtName;Vietnamese
-1.`404 NOT FOUND`
-Under maintenance
+## Notices ; 公告
+### China region ; 中国地区
+1、~~示例。~~
 
-## Statement
-Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility aris
-ing from our configs,and the final right of interpretation belongs to Veibae.
-
-### We refuse to provide any services to human beings who are sexist or rac
+### Worldwide ; 全球
+1.~~Something.~~
 
 
-ist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.
+## Statement ; 声明
+Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.:exclamation:
 
-## How to use our configs
-`404 NOT FOUND`
-Under maintenance
+***We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.***:exclamation:
+
+## How to use our configs ; 如何使用我们的配置
+`该模块即将大更新，请等待最终效果`
+
+-------------------------------------
 
 ## Servers that we can bypass
 ### General servers
