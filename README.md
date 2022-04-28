@@ -21,9 +21,13 @@ Under maintenance
 Under maintenance
 
 ## Statement
-Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae.
+Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility aris
+ing from our configs,and the final right of interpretation belongs to Veibae.
 
-### We refuse to provide any services to human beings who are sexist or racist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.
+### We refuse to provide any services to human beings who are sexist or rac
+
+
+ist.We refuse to provide any service to any human being who does not admit the history of Japanese aggression against China.
 
 ## How to use our configs
 `404 NOT FOUND`
@@ -39,18 +43,27 @@ Jartex(jartex.fun)(matrix)`main`
 
 Kokscraft(kokscraft.pl)(custom anticheat)
 
+
 Lucky(luckynetwork.net)(custom matrix and old verus)
+
+
 
 Minemora(mc.minemora.net)(custom old AAC)
 
 Pika(pika.hosts)(matrix)`main`
 
-Ruhypixel(ruhypixel.net)(matrix)`main`
+
+
+Ruhypixel(ruhypixel.n
+
+
+et)(matrix)`main`
 
 ### Chinese servers
 GameCraft(mcyc.win)(AAC5 and vulcan)
 
-欢乐村(9wmc.xyz)(custom anticheat)
+欢乐村(9wmc.xyz)(custom a
+nticheat)
 
 Rocraft(rocraft.games)(verus and vulcan)`main`
 
@@ -61,9 +74,12 @@ ll11l1lIllIl1lll(Veibae's close friend)
 
 guimc233(Veibae's boyfriend)
 
-liulihaocai(The owner of FDP Client)
+liuliha`404 NOT FOUND`ocai(The owner of FDP Client)
 
 FengXiaoSkidGod
+
+
+`404 NOT FOUND`
 
 一任清风寻(Veibae's friend)
 
