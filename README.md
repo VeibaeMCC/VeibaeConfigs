@@ -1,4 +1,4 @@
-# Veibae Config Service Station ; Veibae的配置服务站:star:
+﻿# Veibae Config Service Station ; Veibae的配置服务站:star:
 **Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
@@ -19,18 +19,12 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、我们已经发布了最新的Blocksmc和Hycraft空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
+    1、我们从即日起提供Mindland服务器的配置，但由于经验还不丰富，配置可能存在各种问题，你可以将问题提交到Github帮助我们实现更好的绕过。
     
-    2、今天可能会再次维护存储库，但北京时间今晚八点以后一定会开放。
-    
-    3、是不是发现Jartex和Pika的配置回弹有亿点严重，不用担心，不仅是当前的Release更新通道，Beta用户的配置比你们还弹，等我生理期过去就不弹啦。
-
 ### Worldwide ; 全球
-    1.We have released the latest Blocksmc Skywars configuration,some functions still need to be optimized,please wait for the update of the subsequent version.
+    1.We are providing the configuration of the Mindland server from now on, but since we are not experienced enough, there may be various problems with the configuration, and you can submit the problem to Github to help us achieve a better bypass.
     
-    2.Do you find that the configuration of Jartex and Pika is very serious,don't worry,not only the current Release update channel,Beta user configuration is more than you,until my physiological period has passed,it will not play.
-    
-    3.If you can help us to translate,please tell us,thanks!
+    2.If you can help us to translate,please tell us,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
@@ -66,7 +60,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
-    Blocksmc(blocksmc.com)(Custom Vulcan)
+    Blocksmc(blocksmc.com)(Custom NCP And Custom Watchdog)
     
     Hycraft(mc.hycraft.us)(Custom Vulcan)
 
@@ -75,7 +69,9 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
     Kokscraft(kokscraft.pl)(Custom Anticheat)
     
     Lucky(luckynetwork.net)(Custom Matrix And Old Verus)
-
+    
+    Mineland(mc.mineland.me)(Custom Vulcan And Disk Check)
+    
     Minemora(mc.minemora.net)(Custom Old AAC)
     
     Pika(pika.hosts)(Matrix)
