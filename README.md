@@ -1,7 +1,3 @@
-![picture](https://github.com/VeibaeMCC/Pictures/blob/main/2E3CD8CE-0C00-4bb5-88F2-ADDAD5D32D65.png "魔怔")
-
-![picture](https://github.com/VeibaeMCC/Pictures/blob/main/634A2EF3-3CDE-491b-8168-8F22A9881908.png "魔怔")
-
 ## zbz？那当然是不在了
 
 ![picture](https://github.com/VeibaeMCC/Pictures/blob/main/112022-04-27_21.12.46.png "珍贵的截屏")
