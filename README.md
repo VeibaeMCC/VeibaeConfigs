@@ -1,13 +1,3 @@
-## zbz？那当然是不在了`琉璃姐姐我还有机会嘛`
-
-![picture](https://github.com/VeibaeMCC/Pictures/blob/main/112022-04-27_21.12.46.png "珍贵的截屏")
-
-给琉璃姐姐送花花啦！:rose::rose::rose:
-
-Send flowers to sister Liuli!:rose::rose::rose:
-
----
-
 # Veibae Config Service Station ; Veibae的配置服务站:star:
 **Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
@@ -151,3 +141,5 @@ RenXun's Tencent QQ Group:*905415155*(Our Partners):speech_balloon:
 ---
 
 [***Back to the top ; 回到顶部***](#readme)
+
+![picture](https://github.com/VeibaeMCC/Pictures/blob/main/112022-04-27_21.12.46.png "珍贵的截屏")
