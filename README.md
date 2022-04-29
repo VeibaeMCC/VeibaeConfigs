@@ -24,11 +24,15 @@ The free FDP client configuration publisher,all configurations are made in China
     1、我们已经发布了最新的Blocksmc和Hycraft空岛战争配置，部分功能能仍需优化，请等待后续版本的更新。
     
     2、今天可能会再次维护存储库，但北京时间今晚八点以后一定会开放。
+    
+    3、是不是发现Jartex和Pika的配置回弹有亿点严重，不用担心，不仅是当前的Release更新通道，Beta用户的配置比你们还弹，等我生理期过去就不弹啦。
 
 ### Worldwide ; 全球
     1.We have released the latest Blocksmc Skywars configuration,some functions still need to be optimized,please wait for the update of the subsequent version.
     
-    2.If you can help us to translate,please tell us,thanks!
+    2.Do you find that the configuration of Jartex and Pika is very serious,don't worry,not only the current Release update channel,Beta user configuration is more than you,until my physiological period has passed,it will not play.
+    
+    3.If you can help us to translate,please tell us,thanks!
 
 ## 给琉璃姐姐送花啦！:rose::rose::rose:
 ## Send flowers to sister Liuli!:rose::rose::rose:
