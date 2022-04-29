@@ -1,14 +1,10 @@
-## zbz？那当然是不在了
+## zbz？那当然是不在了`琉璃姐姐我还有机会嘛`
 
 ![picture](https://github.com/VeibaeMCC/Pictures/blob/main/112022-04-27_21.12.46.png "珍贵的截屏")
 
 给琉璃姐姐送花花啦！:rose::rose::rose:
 
 Send flowers to sister Liuli!:rose::rose::rose:
-
-*————琉璃姐姐于2022年4月28日公开宣布退出UnlegitMC团队......*
-
-*————Sister Liuli publicly announced her withdrawal from the UniteMC team on April 28,2022...*
 
 ---
 
