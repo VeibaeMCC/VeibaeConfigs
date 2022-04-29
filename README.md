@@ -19,9 +19,9 @@ Send flowers to sister Liuli!:rose::rose::rose:
 
 [![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures%20%3B%20%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP Client On Top!")](https://getfdp.today/)
 
-*点击 ***`这张图片`*** 即可访问FDP客户端 ~~***官网***~~ 哦 ~*
+*点击 ***`这张图片`*** 即可访问FDP客户端 ~~**官网**~~ 哦 ~*
 
-*Click ***`this picture`*** to access ~~***the official website***~~ of FDP Client ~*
+*Click ***`this picture`*** to access ~~**the official website**~~ of FDP Client ~*
 
 ## Introduction ; 介绍
 ### Overview ; 概述
