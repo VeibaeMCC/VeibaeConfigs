@@ -104,17 +104,39 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
     ZQAT(zqat.top)(Custom Anticheat Based Matrix)
 
 ## Special Thanks ; 特别鸣谢:kissing_heart:
-liulihaocai(Former a member of the UnlegitMC Team and the owner of FDP Client)
+[**liulihaocai**](https://github.com/liulihaocai)(Former a member of the UnlegitMC Team and the owner of FDP Client)
+
+![liulihaocai](https://github.com/VeibaeMCC/Pictures/blob/main/liuli.jpg "liulihaocai")
+
+---
 
 ll11l1lIllIl1lll(Veibae's close friend)
 
-guimc233(Veibae's boyfriend)
+![ll11l1lIllIl1lll]https://github.com/VeibaeMCC/Pictures/blob/main/guimi.png "ll11l1lIllIl1lll")
 
-xiguagege(A developer of FDP Client)
+---
 
-一任清风寻(Veibae's friend)
+[汐洛呐](https://github.com/guimc233)(Veibae's boyfriend)
 
-Qenqy(Youtuber)
+![汐洛呐](https://github.com/VeibaeMCC/Pictures/blob/main/xiluo.jpg "汐洛呐")
+
+---
+
+[XiGuaHanHan](https://github.com/xiguagege)(A developer of FDP Client)
+
+![XiGuaHanHan](https://github.com/VeibaeMCC/Pictures/blob/main/xiguagege.png "XiGuaHanHan")
+
+---
+
+[一任清风寻](https://space.bilibili.com/2084141313?spm_id_from=333.337.0.0)(Veibae's friend)
+
+![一任清风寻](https://github.com/VeibaeMCC/Pictures/blob/main/renxun.png "一任清风寻")
+
+---
+
+[Qenqy](https://www.youtube.com/channel/UC9l4FLbeI_J23g45A4oEm2w)(Youtuber)
+
+![Qenqy](https://github.com/VeibaeMCC/Pictures/blob/main/qenqy.jpg "Qenqy")
 
 ## Translation support ; 翻译支持
 Google Translate
