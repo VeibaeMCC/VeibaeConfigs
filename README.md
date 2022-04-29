@@ -62,9 +62,9 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ---
 
-2.Find the config that is saved on your PC,move it to ***`Configs`*** folder in the folder of FDP Client.
+2.Find the config that is saved on your PC,move it to ***`configs`*** folder in the folder of FDP Client.
 
-2、找到你保存在电脑中的配置，将配置移动到FDP文件夹中的 ***`Configs`*** 文件夹。
+2、找到你保存在电脑中的配置，将配置移动到FDP文件夹中的 ***`configs`*** 文件夹。
 
 ![](https://github.com/VeibaeMCC/Pictures/blob/main/folder.png)
 
@@ -72,7 +72,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 3.Enter the game,Enter ***`.config load (the name of the config)`*** in the chat bar to load the config.
 
-3、进入游戏，在聊天栏输入 ***`.config load (the name of the config)`*** 来加载配置。
+3、进入游戏，在聊天栏输入 ***`.config load (配置的名称)`*** 来加载配置。
 
 ![](https://github.com/VeibaeMCC/Pictures/blob/main/input.png)
 
