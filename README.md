@@ -60,7 +60,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
-    Blocksmc(blocksmc.com)(Custom NCP And Custom Watchdog)
+    Blocksmc(blocksmc.com)(Custom NCP And Verus)
     
     Hycraft(mc.hycraft.us)(Custom Vulcan)
 
