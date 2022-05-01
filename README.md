@@ -1,3 +1,5 @@
+今天下午认真更新一下子，好不容易送走了痛经和我妈没收电脑的处境。。。。。。
+
 # Veibae Config Service Station ; Veibae的配置服务站:star:
 **Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
