@@ -1,5 +1,3 @@
-今天下午认真更新一下子，好不容易送走了痛经和我妈没收电脑的处境。。。。。。
-
 # Veibae Config Service Station ; Veibae的配置服务站:star:
 **Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
@@ -23,12 +21,14 @@ The free FDP client configuration publisher,all configurations are made in China
 ### China region ; 中国地区
     1、我们拒绝使用任何scripts，VeibaeConfigs发布之初就一直坚持使用真正原汁原味的FDP客户端，因此我们无法满足部分额外的需求，如果你有更好的思路可以提交到FDP的issues，而不是告诉我       哦。
     
-    2、西瓜哥哥，你是不是打滑了无数个客户端的视觉，我甚至觉得你借鉴了我在liquidbounceplus闭着眼睛设计的main哈哈哈。
+    2、我们已经更新了FDP客户端的官网，如果你还发现了其他的重定向错误，请提交给我们。
     
 ### Worldwide ; 全球
     1.We refuse to use any scripts.Veibaeconfigs has always insisted on using genuine FDP clients since its release,so we can't meet some additional needs.If you have a better idea,you can submit it to FDP issues instead of telling me.
     
-    2.If you can help us to translate,please tell us,thanks!
+    2.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
+    
+    3.If you can help us to translate,please tell us,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
