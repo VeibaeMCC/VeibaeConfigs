@@ -1,15 +1,15 @@
-﻿# Veibae Config Service Station ; Veibae的配置服务站:star:
+# Veibae Config Service Station ; Veibae的配置服务站:star:
 **Free [FDP Client](https://github.com/UnlegitMC/FDPClient) configuration provider,serving hackers in East Asia,Southeast Asia,Western Europe,North America and other regions.**
 
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
 
 ---
 
-[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures%20%3B%20%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP Client On Top!")](https://getfdp.today/)
+[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures%20%3B%20%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP Client On Top!")](http://fdpclient.club/)
 
-*点击 ***`这张图片`*** 即可访问FDP客户端 ~~**官网**~~ 哦 ~*
+*点击 ***`这张图片`*** 即可访问FDP客户端官网哦 ~*
 
-*Click ***`this picture`*** to access ~~**the official website**~~ of FDP Client ~*
+*Click ***`this picture`*** to access the official website of FDP Client ~*
 
 ## Introduction ; 介绍
 ### Overview ; 概述
@@ -19,10 +19,12 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、我们从即日起提供Mindland服务器的配置，但由于经验还不丰富，配置可能存在各种问题，你可以将问题提交到Github帮助我们实现更好的绕过。
+    1、我们拒绝使用任何scripts，VeibaeConfigs发布之初就一直坚持使用真正原汁原味的FDP客户端，因此我们无法满足部分额外的需求，如果你有更好的思路可以提交到FDP的issues，而不是告诉我       哦。
+    
+    2、西瓜哥哥，你是不是打滑了无数个客户端的视觉，我甚至觉得你借鉴了我在liquidbounceplus闭着眼睛设计的main哈哈哈。
     
 ### Worldwide ; 全球
-    1.We are providing the configuration of the Mindland server from now on, but since we are not experienced enough, there may be various problems with the configuration, and you can submit the problem to Github to help us achieve a better bypass.
+    1.We refuse to use any scripts.Veibaeconfigs has always insisted on using genuine FDP clients since its release,so we can't meet some additional needs.If you have a better idea,you can submit it to FDP issues instead of telling me.
     
     2.If you can help us to translate,please tell us,thanks!
 
@@ -90,7 +92,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 ## Special Thanks ; 特别鸣谢:kissing_heart:
 [**liulihaocai**](https://github.com/liulihaocai)(Former a member of the UnlegitMC Team and the owner of FDP Client)
 
-![liulihaocai](https://github.com/VeibaeMCC/Pictures/blob/main/liuli.jpg "liulihaocai")
+![liulihaocai](https://avatars.githubusercontent.com/u/65506006?v=4 "liulihaocai")
 
 ---
 
@@ -109,6 +111,12 @@ ll11l1lIllIl1lll(Veibae's close friend)
 [XiGuaHanHan](https://github.com/xiguagege)(A developer of FDP Client)
 
 ![XiGuaHanHan](https://github.com/VeibaeMCC/Pictures/blob/main/xiguagege.png "XiGuaHanHan")
+
+---
+
+[Co丶Dynamic](https://github.com/contionability)(A developer of FDP Client)
+
+![Co丶Dynamic](https://avatars.githubusercontent.com/u/78670017?v=4 "Co丶Dynamic")
 
 ---
 
