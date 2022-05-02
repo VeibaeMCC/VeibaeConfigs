@@ -11,6 +11,11 @@
 
 *Click ***`this picture`*** to access the official website of FDP Client ~*
 
+## Show video ; 展示视频
+https://www.bilibili.com/video/BV1M94y1o76z/?spm_id_from=333.788.recommend_more_video.2
+
+https://www.bilibili.com/video/BV1nB4y1175S?spm_id_from=333.999.0.0
+
 ## Introduction ; 介绍
 ### Overview ; 概述
 The free FDP client configuration publisher,all configurations are made in China,and the FDP client is also made in China.We provide both Chinese and English in this repository.If you have better suggestions,you can submit them on Github.:heart:
@@ -23,14 +28,10 @@ The free FDP client configuration publisher,all configurations are made in China
     
     2、我们已经更新了FDP客户端的官网，如果你还发现了其他的重定向错误，请提交给我们。
     
-    3、我们在Blocksmc及其附属配置中发现了大部分的错误，预计将在5小时内发布修复性更新，具体进度请关注Github。
-    
 ### Worldwide ; 全球
     1.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
     
     2.If you can help us to translate,please tell us,thanks!
-    
-    3.We found something wrong in our configs of Blocksmc,we'll give the Beta configs within 5 hours,if you find more mistakes,please send to Github,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
