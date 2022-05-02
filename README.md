@@ -23,12 +23,14 @@ The free FDP client configuration publisher,all configurations are made in China
     
     2、我们已经更新了FDP客户端的官网，如果你还发现了其他的重定向错误，请提交给我们。
     
-    3、西瓜哥哥，能不能unban我的github啊呜呜呜，我错了！
+    3、我们在Blocksmc及其附属配置中发现了大部分的错误，预计将在5小时内发布修复性更新，具体进度请关注Github。
     
 ### Worldwide ; 全球
     1.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
     
     2.If you can help us to translate,please tell us,thanks!
+    
+    3.We found something wrong in our configs of Blocksmc,we'll give the Beta configs within 5 hours,if you find more mistakes,please send to Github,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
