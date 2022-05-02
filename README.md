@@ -19,16 +19,16 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、我们拒绝使用任何scripts，VeibaeConfigs发布之初就一直坚持使用真正原汁原味的FDP客户端，因此我们无法满足部分额外的需求，如果你有更好的思路可以提交到FDP的issues，而不是告诉我       哦。
+    1、即日起，ZQAT配置恢复更新，但状态仍不确定，请关注最新公告。
     
     2、我们已经更新了FDP客户端的官网，如果你还发现了其他的重定向错误，请提交给我们。
     
+    3、西瓜哥哥，能不能unban我的github啊呜呜呜，我错了！
+    
 ### Worldwide ; 全球
-    1.We refuse to use any scripts.Veibaeconfigs has always insisted on using genuine FDP clients since its release,so we can't meet some additional needs.If you have a better idea,you can submit it to FDP issues instead of telling me.
+    1.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
     
-    2.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
-    
-    3.If you can help us to translate,please tell us,thanks!
+    2.If you can help us to translate,please tell us,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
