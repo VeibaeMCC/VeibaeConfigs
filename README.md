@@ -24,14 +24,10 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、即日起，ZQAT配置恢复更新，但状态仍不确定，请关注最新公告。
-    
-    2、我们已经更新了FDP客户端的官网，如果你还发现了其他的重定向错误，请提交给我们。
+    1、我们将会使用`Liquidbounceplus`客户端进行部分更新，但仍处在前期测试阶段，我们不遵循任何开源协议，任何责任不由我们承担，我们已经取得了原作者的支持。
     
 ### Worldwide ; 全球
-    1.We have updated the official website of the FDP client,if you find other redirection errors,please submit it to us.
-    
-    2.If you can help us to translate,please tell us,thanks!
+    1.We'll update with `Liquidbounceplus` Client.But all updating is PRE,all products is allent of us,the writer has supported us.
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
