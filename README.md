@@ -22,12 +22,17 @@ The free FDP client configuration publisher,all configurations are made in China
 
 免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在该存储库中提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
 
+### Where to escalate the issue ; 在哪里提交配置问题
+[Click here ~](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+
+[点击此处 ~](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+
 ## Notices ; 公告
 ### China region ; 中国地区
-1、[404 NOT FOUND](http://veibaenotices.cn/)
+1、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
     
 ### Worldwide ; 全球
-1.[404 NOT FOUND](http://veibaenotices.cn/)
+1.So far,many mistakes in the configs of Blocksmc have been fixed,if you find more mistakes,please tell us please,thanks!
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
