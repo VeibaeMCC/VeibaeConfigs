@@ -3,7 +3,7 @@
 
 ---
 
-[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/Pictures%20%3B%20%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP Client On Top!")](http://fdpclient.club/)
+[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP客户端永远的神！")](http://fdpclient.club/)
 
 *点击 ***`这张图片`*** 即可访问FDP客户端官网哦 ~*
 
@@ -21,6 +21,8 @@
 
 ## 公告
 1、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
+
+2、自2022年5月4日起，Rocraft及其附属服务器的所有外置服务全部停止更新，配置及其插件停止在youtube和discord发布，望周知。
 
 ## 声明
 Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所有配置仅供参考，未被用于任何非法目的。我们将不承担因我们的配置而产生的任何责任，最终解释权属于Veibae所有。 :exclamation:
