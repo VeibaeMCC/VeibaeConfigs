@@ -23,9 +23,9 @@ The free FDP client configuration publisher,all configurations are made in China
 免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在该存储库中提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
 
 ### Where to escalate the issue ; 在哪里提交配置问题
-[***Click here ~***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+[***Click here***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
-[***点击此处 ~***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+[***点击此处***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
 ## Notices ; 公告
 ### China region ; 中国地区
