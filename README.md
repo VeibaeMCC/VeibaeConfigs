@@ -12,9 +12,9 @@
 *Click ***`this picture`*** to access the official website of FDP Client ~*
 
 ## Show video ; 展示视频
-https://www.bilibili.com/video/BV1M94y1o76z/?spm_id_from=333.788.recommend_more_video.2
+**[使用Veibae 姐姐的Config Bypass BlocksMc【附config】]**(https://www.bilibili.com/video/BV1M94y1o76z/?spm_id_from=333.788.recommend_more_video.2)
 
-https://www.bilibili.com/video/BV1nB4y1175S?spm_id_from=333.999.0.0
+**[Veibae和她“多灾多难”的配置]**(https://www.bilibili.com/video/BV1nB4y1175S?spm_id_from=333.999.0.0)
 
 ## Introduction ; 介绍
 ### Overview ; 概述
@@ -23,9 +23,9 @@ The free FDP client configuration publisher,all configurations are made in China
 免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在该存储库中提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
 
 ### Where to escalate the issue ; 在哪里提交配置问题
-[***Click here ~***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+***[Click here ~]***(https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
-[***点击此处 ~***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+***[点击此处 ~]***(https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
 ## Notices ; 公告
 ### China region ; 中国地区
