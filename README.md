@@ -24,10 +24,10 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、[404 NOT FOUND](http://veibaenotices.cn/)
+1、[404 NOT FOUND](http://veibaenotices.cn/)
     
 ### Worldwide ; 全球
-    1.[404 NOT FOUND](http://veibaenotices.cn/)
+1.[404 NOT FOUND](http://veibaenotices.cn/)
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
