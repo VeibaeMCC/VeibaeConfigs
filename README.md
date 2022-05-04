@@ -24,10 +24,10 @@ The free FDP client configuration publisher,all configurations are made in China
 
 ## Notices ; 公告
 ### China region ; 中国地区
-    1、我们将会使用`Liquidbounceplus`客户端进行部分更新，但仍处在前期测试阶段，我们不遵循任何开源协议，任何责任不由我们承担，我们已经取得了原作者的支持。
+    1、[404 NOT FOUND](http://veibaenotices.cn/)
     
 ### Worldwide ; 全球
-    1.We'll update with `Liquidbounceplus` Client.But all updating is PRE,all products is allent of us,the writer has supported us.
+    1.[404 NOT FOUND](http://veibaenotices.cn/)
 
 ## Statement ; 声明
 Veibae is attached to the people's Republic of China and abides by the laws of the people's Republic of China.All configs are only for reference and have not been used for any illegal purposes.We will not bear any responsibility arising from our configs,and the final right of interpretation belongs to Veibae. :exclamation:
@@ -63,7 +63,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## Servers that we can bypass ; 我们能绕过的服务器
 ### General servers ; 一般服务器
-    Blocksmc(blocksmc.com)(Custom NCP And Verus)
+    Blocksmc(blocksmc.com)(Custom NCP)
     
     Hycraft(mc.hycraft.us)(Custom Vulcan)
 
@@ -88,7 +88,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
     
     Rocraft(rocraft.games)(Verus And Vulcan And Custom Anticheat)
     
-    ZQAT(zqat.top)(Custom Anticheat Based Matrix)
+    ZQAT(zqat.top)(Custom Anticheat Based Matrix And Disk Check)
 
 ## Special Thanks ; 特别鸣谢:kissing_heart:
 [**liulihaocai**](https://github.com/liulihaocai)(Former a member of the UnlegitMC Team and the owner of FDP Client)
