@@ -14,26 +14,38 @@
 
 ## 介绍
 ### 概述
-免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在该存储库中提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
+免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在部分区域提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
+
+Free FDP client configuration publisher.All configurations are made in China.FDP client is also made in China.We provide Chinese and English languages in some regions.If you have better suggestions,you can submit them on GitHub.
 
 ### 在哪里提交配置问题
 [***点击此处***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
 ## 公告
+### 中国地区
     1、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
     
     2、我们在Jartex与Pika配置中发现了部分问题，今天将会发布更新进行修复。
-     
+    
     3、我们在ZQAT和Rocraft配置中发现了部分问题，今天将会发布更新进行修复。
     
     4、存储库从此只在周末更新，对全球所有支持访问Github的国家开放。
+    
+### Whole World
+    1.At present,serious errors in blocksmc configuration have been fixed.If you find more problems,you can submit them to us.
+    
+    2.We found some problems in Jartex and Pika configurations,and will release updates to fix them today.
+    
+    3.We found some problems in ZQAT and Rocraft configurations,and will release updates to fix them today.
+    
+    4.Since then,the repository has been updated only on weekends (BeiJing Time) and is open to all countries around the world that support access to GitHub.
 
 ## 声明
 Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所有配置仅供参考，未被用于任何非法目的。我们将不承担因我们的配置而产生的任何责任，最终解释权属于Veibae所有。 :exclamation:
 
 ***我们拒绝向性别歧视或种族主义者提供任何服务。我们拒绝为任何不承认日本侵华历史的人提供任何服务。***:exclamation:
 
-## How to use our configs ; 如何使用我们的配置
+## 如何使用我们的配置
 1、访问[***`https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE`***](https://github.com/VeibaeMCC/VeibaeConfigs/tree/main/Configs%20%3B%20%E9%85%8D%E7%BD%AE)，选择你想玩的服务器并点击，找到你想要的配置，然后右键点击它，选择`将链接另存为`。
 
 ![](https://github.com/VeibaeMCC/Pictures/blob/main/list.png)
