@@ -23,13 +23,15 @@ Free FDP client configuration publisher.All configurations are made in China.FDP
 
 ## 公告
 ### 中国地区
-    1、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
+    1、中考在即，暂停更新，预计6月20日恢复更新。
     
-    2、我们在Jartex与Pika配置中发现了部分问题，今天将会发布更新进行修复。
+    2、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
     
-    3、我们在ZQAT和Rocraft配置中发现了部分问题，今天将会发布更新进行修复。
+    3、我们在Jartex与Pika配置中发现了部分问题，今天将会发布更新进行修复。
     
-    4、存储库从此只在周末更新，对全球所有支持访问Github的国家开放。
+    4、我们在ZQAT和Rocraft配置中发现了部分问题，今天将会发布更新进行修复。
+    
+    5、存储库从此只在周末更新，对全球所有支持访问Github的国家开放。
     
 ### Whole World
     1.At present,serious errors in blocksmc configuration have been fixed.If you find more problems,you can submit them to us.
