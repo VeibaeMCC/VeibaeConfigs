@@ -3,6 +3,8 @@
 
 **我们将延续Kevin，FDP，LiquidBounce，LiquidBouncePlus等免费客户端的精神继续开发。**
 
+预计在2022年7月开始不删档公测，全中文支持，仅对中国人开放！
+
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
 
