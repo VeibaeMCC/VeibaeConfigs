@@ -10,7 +10,7 @@
 ## 关于Veibae客户端
 ***Veibae客户端将在暑假启动开发，永久免费发布，不开源，安全性顶尖所以不会被人圈钱利用鸭，非常美丽的捏（少女风）。***
 
-该客户端在杰哥的Kevin得到了很多思路和灵感，在此特别感谢！
+**我们将延续Kevin，FDP，LiquidBounce，LiquidBouncePlus等免费客户端的精神继续开发。**
 
 ## 展示视频
 [**使用Veibae 姐姐的Config Bypass BlocksMc【附config】**](https://www.bilibili.com/video/BV1M94y1o76z/?spm_id_from=333.788.recommend_more_video.2)
