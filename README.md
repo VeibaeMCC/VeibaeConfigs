@@ -1,3 +1,6 @@
+## 关于Veibae客户端
+***Veibae客户端将在暑假启动开发，永久免费发布，不开源，安全性顶尖所以不会被人圈钱利用鸭，非常美丽的捏（少女风）。***
+
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
 
@@ -6,9 +9,6 @@
 [![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP客户端永远的神！")](http://fdpclient.club/)
 
 *点击 ***`这张图片`*** 即可访问FDP客户端官网哦 ~*
-
-## 关于Veibae客户端
-***Veibae客户端将在暑假启动开发，永久免费发布，不开源，安全性顶尖所以不会被人圈钱利用鸭，非常美丽的捏（少女风）。***
 
 **我们将延续Kevin，FDP，LiquidBounce，LiquidBouncePlus等免费客户端的精神继续开发。**
 
