@@ -7,6 +7,9 @@
 
 *点击 ***`这张图片`*** 即可访问FDP客户端官网哦 ~*
 
+## 关于Veibae客户端
+***Veibae客户端将在暑假开始发布，永久免费，但不开源，安全性顶尖所以不会被人圈钱利用鸭，非常美丽的捏（少女风）。***
+
 ## 展示视频
 [**使用Veibae 姐姐的Config Bypass BlocksMc【附config】**](https://www.bilibili.com/video/BV1M94y1o76z/?spm_id_from=333.788.recommend_more_video.2)
 
