@@ -23,6 +23,10 @@
 
 [**Veibae和她“多灾多难”的配置**](https://www.bilibili.com/video/BV1nB4y1175S?spm_id_from=333.999.0.0)
 
+[**jartex游玩视频（**](https://m.bilibili.com/video/BV1FF41177Kj)
+
+[**Use FDP to play Minecraft**](https://m.bilibili.com/video/BV1fY4y1r7k1)
+
 ## 介绍
 ### 概述
 免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在部分区域提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
