@@ -9,7 +9,7 @@
 
 我们不久后会新建数据库用于VeibaeClient的更新。
 
-Veibae是学生党没钱，如果你愿意可以帮我买个域名Veibae.xyz我查了价格不是很贵（应该），然后作为官网。
+Veibae是学生党没钱，如果你愿意可以帮我买个域名Veibae.xyz，我查了价格不是很贵（应该），然后作为官网。
 
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
