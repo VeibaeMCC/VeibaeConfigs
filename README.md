@@ -7,9 +7,7 @@
 
 由于该客户端底层将全部重写，只有我一名开发者，因此工程量巨大，可能无法如期发布，但我一定不会放弃的，请相信Veibae！
 
-我们不久后会新建数据库用于VeibaeClient的更新。
-
-Veibae是学生党没钱，如果你愿意可以帮我买个域名Veibae.xyz，我查了价格不是很贵（应该），然后作为官网。
+由于我中考提前至6月15日，开发工作将在6月18日启动，基于MCP，相关协议请[**点击此处**](https://github.com/VeibaeMCC/VeibaeClient)了解。
 
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
