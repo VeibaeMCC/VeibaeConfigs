@@ -40,22 +40,8 @@ Free FDP client configuration publisher.All configurations are made in China.FDP
 ### 中国地区
     1、中考在即，暂停更新，预计6月20日恢复更新。
     
-    2、目前Blocksmc配置中的严重错误已被修复，如果你发现了更多问题可以提交给我们。
-    
-    3、我们在Jartex与Pika配置中发现了部分问题，今天将会发布更新进行修复。
-    
-    4、我们在ZQAT和Rocraft配置中发现了部分问题，今天将会发布更新进行修复。
-    
-    5、存储库从此只在周末更新，对全球所有支持访问Github的国家开放。
-    
 ### Whole World
-    1.At present,serious errors in blocksmc configuration have been fixed.If you find more problems,you can submit them to us.
-    
-    2.We found some problems in Jartex and Pika configurations,and will release updates to fix them today.
-    
-    3.We found some problems in ZQAT and Rocraft configurations,and will release updates to fix them today.
-    
-    4.Since then,the repository has been updated only on weekends (BeiJing Time) and is open to all countries around the world that support access to GitHub.
+    1.None.
 
 ## 声明
 Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所有配置仅供参考，未被用于任何非法目的。我们将不承担因我们的配置而产生的任何责任，最终解释权属于Veibae所有。 :exclamation:
