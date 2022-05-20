@@ -127,12 +127,6 @@ ll11l1lIllIl1lll(Veibae的闺蜜)
 
 ---
 
-[XiGuaHanHan](https://github.com/xiguagege)(FDP客户端的一名开发者)
-
-![XiGuaHanHan](https://github.com/VeibaeMCC/Pictures/blob/main/xiguagege.png "XiGuaHanHan")
-
----
-
 [Co丶Dynamic](https://github.com/contionability)(FDP客户端的一名开发者)
 
 ![Co丶Dynamic](https://avatars.githubusercontent.com/u/78670017?v=4 "Co丶Dynamic")
