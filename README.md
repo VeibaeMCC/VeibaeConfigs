@@ -40,7 +40,7 @@ Free FDP client configuration publisher.All configurations are made in China.FDP
 ### 中国地区
     1、中考在即，暂停更新，预计6月20日恢复更新。
     
-    2、如果你在加载配置时崩溃，请使用本存储库中示例的FDPClient-aa8a191.jar版本客户端。
+    2、如果你在加载配置时崩溃，那是FDP的问题，FDP一天不如一天，下次更新开始使用新客户端。
     
 ### Whole World
     1.None.
