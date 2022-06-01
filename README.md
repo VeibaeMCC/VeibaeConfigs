@@ -1,11 +1,7 @@
 ## 关于Veibae客户端
 ***Veibae客户端将在暑假启动开发，永久免费发布，不开源，安全性顶尖所以不会被人圈钱利用鸭，非常美丽的捏。***
 
-**由于我中考提前至6月15日，开发工作将在6月18日启动，基于MCP，相关协议请[**点击此处**](https://github.com/VeibaeMCC/VeibaeClient)了解。**
-
-**我们将延续Kevin，FDP，LiquidBounce，LiquidBouncePlus等免费客户端的精神继续开发。**
-
-预计在2022年7月开始不删档公测，全中文支持，仅对中国人开放！
+**开发工作将在7月31日启动，基于MCP，相关协议请[**点击此处**](https://github.com/VeibaeMCC/VeibaeClient)了解。**
 
 由于该客户端底层将全部重写，只有我一名开发者，因此工程量巨大，可能无法如期发布，但我一定不会放弃的，请相信Veibae！
 
