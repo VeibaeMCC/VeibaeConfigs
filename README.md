@@ -1,5 +1,6 @@
 ## 关于Veibae客户端
-***内测QQ群群号：926964382   7月开始发布内测版本   因为服务项的问题，客户端只兼容Windows***
+***内测QQ群群号：926964382***
+
 https://github.com/VeibaeMCC/VeibaeClient
 
 # Veibae的配置服务站:star:
