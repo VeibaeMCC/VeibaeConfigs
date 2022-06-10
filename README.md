@@ -1,8 +1,6 @@
-## 高考加油
-**今天是2022年6月8日，高考加油哦！**
-
 ## 关于Veibae客户端
-***内测QQ群群号：926964382   7月开始发布内测版本   因为服务项的问题，客户端只兼容Windows7及以上***
+***内测QQ群群号：926964382   7月开始发布内测版本   因为服务项的问题，客户端只兼容Windows***
+https://github.com/VeibaeMCC/VeibaeClient
 
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
