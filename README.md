@@ -1,9 +1,12 @@
+## Veibae姐姐的便携式官网（临时）
+**veibaemcc.github.io**
+
 # Veibae的配置服务站:star:
-**免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于来自中国的黑客们。**
+**免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于东亚、东南亚、西欧、北美等地区的黑客们。**
 
 ---
 
-[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP客户端")](http://fdpclient.club/)
+[![FDP Client](https://github.com/VeibaeMCC/VeibaeConfigs/blob/main/%E5%9B%BE%E7%89%87/FDP%20Client.png "FDP客户端永远的神！")](http://fdpclient.club/)
 
 *点击 ***`这张图片`*** 即可访问FDP客户端官网哦 ~*
 
@@ -20,19 +23,19 @@
 ### 概述
 免费的FDP客户端配置发布方，所有配置在中国被制作，FDP客户端也是中国制造，我们在部分区域提供了中英两种语言，如果你有更好的建议，可以提交在Github上。:heart:
 
+Free FDP client configuration publisher.All configurations are made in China.FDP client is also made in China.We provide Chinese and English languages in some regions.If you have better suggestions,you can submit them on GitHub.
+
 ### 在哪里提交配置问题
-[***点击此处提交配置问题***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
+[***点击此处***](https://github.com/VeibaeMCC/VeibaeConfigs/issues)
 
 ## 公告
 ### 中国地区
-    1、愿，你我，能与思念之人相遇在樱花烂漫之时。
-
-    2、不久后，Veibae也将成为那走远的过客......
+    1、中考在即，暂停更新，预计6月20日恢复更新。
+    
+    2、如果你在加载配置时崩溃，那是FDP的问题，FDP一天不如一天，下次更新开始使用新客户端。
     
 ### Whole World
-    1.May you and I will meet those who miss you when the cherry blossoms are blooming.
-
-    2.In the near future,Veibae will also become one farther and farther away from you all...
+    1.None.
 
 ## 声明
 Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所有配置仅供参考，未被用于任何非法目的。我们将不承担因我们的配置而产生的任何责任，最终解释权属于Veibae所有。 :exclamation:
@@ -58,34 +61,32 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## 我们能绕过的服务器
 ### 一般服务器
-    [Farewell] Blocksmc (blocksmc.com) (New NCP)
+    Blocksmc(blocksmc.com)(Custom NCP)
     
-    Hycraft (mc.hycraft.us) (Custom Vulcan)
+    Hycraft(mc.hycraft.us)(Custom Vulcan)
 
-    Jartex (jartex.fun) (Matrix)
+    Jartex(jartex.fun)(Matrix)
     
-    [Farewell] Kokscraft (kokscraft.pl) (Custom Anticheat)
+    Kokscraft(kokscraft.pl)(Custom Anticheat)
     
-    [Farewell] Lucky (luckynetwork.net) (Custom Verus)
+    Lucky(luckynetwork.net)(Custom Matrix And Old Verus)
     
-    Mineland (mc.mineland.me) (Custom Vulcan)
+    Mineland(mc.mineland.me)(Custom Vulcan And Disk Check)
     
-    [Farewell] Minemora (mc.minemora.net) (Old AAC)
+    Minemora(mc.minemora.net)(Custom Old AAC)
     
-    Pika (pika.hosts) (Matrix)
+    Pika(pika.hosts)(Matrix)
     
-    [Farewell] Ruhypixel (ruhypixel.net) (Matrix)
+    Ruhypixel(ruhypixel.net)(Matrix)
 
 ### 中国服务器
-    [Farewell] GameCraft (mcyc.win) (AAC4)
+    GameCraft(mcyc.win)(AAC5 And Verus And Vulcan)
     
-    [Farewell] 欢乐村 (9wmc.xyz) (Custom Anticheat)
+    欢乐村(9wmc.xyz)(Custom Anticheat)
     
-    Remiaft (mc.remiaft.com) (Custom Matrix And Vulcan)
+    Rocraft(rocraft.games)(Verus And Vulcan And Custom Anticheat)
     
-    Rocraft (rocraft.games) (Verus And Vulcan And Custom Anticheat)
-    
-    [Farewell] ZQAT (zqat.top) (Custom Anticheat Based Matrix)
+    ZQAT(zqat.top)(Custom Anticheat Based Matrix And Disk Check)
 
 ## 特别鸣谢:kissing_heart:
 [**liulihaocai**](https://github.com/liulihaocai)(UnlegitMC团队曾经的一员，FDP客户端的创始人)
