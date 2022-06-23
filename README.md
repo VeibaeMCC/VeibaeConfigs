@@ -1,3 +1,6 @@
+## 封禁名单
+https://github.com/ghost
+
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于来自中国的黑客们。**
 
