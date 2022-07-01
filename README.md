@@ -1,6 +1,3 @@
-## 封禁名单
-https://github.com/ghost （原因：其发表言论涉及政治等多方面因素）
-
 # Veibae的配置服务站:star:
 **免费的[FDP客户端](https://github.com/UnlegitMC/FDPClient)配置提供方，服务于来自中国的黑客们。**
 
@@ -61,7 +58,7 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
 
 ## 我们能绕过的服务器
 ### 一般服务器
-    [Farewell] Blocksmc (blocksmc.com) (New NCP)
+    [Farewell] Blocksmc (blocksmc.com) (NCP)
     
     Hycraft (mc.hycraft.us) (Custom Vulcan)
 
@@ -80,49 +77,18 @@ Veibae隶属于中华人民共和国，遵守中华人民共和国法律。所�
     [Farewell] Ruhypixel (ruhypixel.net) (Matrix)
 
 ### 中国服务器
-    [Farewell] GameCraft (mcyc.win) (AAC4)
+    [Farewell] GameCraft (mcyc.win) (AAC4 And Vulcan)
     
     [Farewell] 欢乐村 (9wmc.xyz) (Custom Anticheat)
     
-    Remiaft (mc.remiaft.com) (Custom Matrix And Vulcan)
+    Remiaft (mc.remiaft.com) (Custom Anticheat)
     
     Rocraft (rocraft.games) (Verus And Vulcan And Custom Anticheat)
     
-    [Farewell] ZQAT (zqat.top) (Custom Anticheat Based Matrix)
-
-## 特别鸣谢:kissing_heart:
-[**liulihaocai**](https://github.com/liulihaocai)(UnlegitMC团队曾经的一员，FDP客户端的创始人)
-
-![liulihaocai](https://avatars.githubusercontent.com/u/65506006?v=4 "liulihaocai")
-
----
-
-ll11l1lIllIl1lll(Veibae的闺蜜)
-
-![ll11l1lIllIl1lll](https://github.com/VeibaeMCC/Pictures/blob/main/guimi.png "ll11l1lIllIl1lll")
-
----
-
-[汐洛呐](https://github.com/guimc233)(Veibae的男朋友)
-
-![汐洛呐](https://github.com/VeibaeMCC/Pictures/blob/main/xiluo.jpg "汐洛呐")
-
----
-
-[Co丶Dynamic](https://github.com/contionability)(FDP客户端的一名开发者)
-
-![Co丶Dynamic](https://avatars.githubusercontent.com/u/78670017?v=4 "Co丶Dynamic")
-
----
-
-[一任清风寻](https://space.bilibili.com/2084141313?spm_id_from=333.337.0.0)(Veibae的好朋友)
-
-![一任清风寻](https://github.com/VeibaeMCC/Pictures/blob/main/renxun.png "一任清风寻")
+    [Farewell] ZQAT (zqat.top) (Custom Anticheat)
 
 ## 联系我们:telephone:
-邮箱:*mccrunsun@outlook.com*:e-mail:
-
-任寻的QQ群:*905415155*(我们的好伙伴):speech_balloon:
+QQ群:*826609334*:speech_balloon:
 
 ---
 
